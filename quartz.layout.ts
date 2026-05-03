@@ -3,7 +3,23 @@ import * as Component from "./quartz/components"
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.TechMasthead({
+      eyebrow: "OpenClaw Publishing System",
+      title: "GoodlookingProKim",
+      subtitle: "AI 자동화, 문서 제작, 작업 노트를 바로 다시 쓸 수 있게 정리하는 실전 테크 블로그",
+      links: [
+        { label: "AI 자동화", href: "ai-automation" },
+        { label: "문서와 슬라이드", href: "docs-slides" },
+        { label: "작업 노트", href: "work-notes" },
+        { label: "RSS", href: "index.xml" },
+        {
+          label: "GitHub",
+          href: "https://github.com/goodlookingprokim/goodlookingprokim.github.io",
+        },
+      ],
+    }),
+  ],
   afterBody: [],
   footer: Component.Footer({
     links: {
@@ -20,7 +36,7 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({ showComma: false }),
     Component.TagList(),
   ],
   left: [
@@ -38,11 +54,18 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [Component.DesktopOnly(Component.TableOfContents())],
+  right: [
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.Backlinks()),
+  ],
 }
 
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta({ showComma: false }),
+  ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -57,5 +80,5 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
 }
