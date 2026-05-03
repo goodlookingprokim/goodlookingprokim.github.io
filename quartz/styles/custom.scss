@@ -1,3 +1,285 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+:root {
+  --neo-border: 3px;
+  --neo-radius: 0px;
+  --neo-shadow: 8px 8px 0 var(--dark);
+  --neo-shadow-sm: 4px 4px 0 var(--dark);
+  --neo-card: #fffdf4;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0.22)),
+    repeating-linear-gradient(
+      -45deg,
+      rgba(255, 93, 115, 0.08) 0,
+      rgba(255, 93, 115, 0.08) 18px,
+      rgba(0, 194, 168, 0.08) 18px,
+      rgba(0, 194, 168, 0.08) 36px
+    ),
+    var(--light);
+}
+
+::selection {
+  background: var(--textHighlight);
+  color: var(--dark);
+}
+
+.page {
+  gap: 1.5rem;
+}
+
+.left,
+.right,
+.center {
+  gap: 1rem;
+}
+
+.sidebar,
+.search,
+.explorer,
+.toc,
+.page article,
+.page-footer {
+  background: var(--neo-card);
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: var(--neo-shadow-sm);
+  border-radius: var(--neo-radius);
+}
+
+.page article {
+  padding: 1.5rem 1.5rem 2rem;
+}
+
+.page-title {
+  display: inline-block;
+  background: var(--secondary);
+  color: var(--light);
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: var(--neo-shadow-sm);
+  padding: 0.45rem 0.85rem;
+  line-height: 1;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.article-title {
+  display: inline-block;
+  margin-bottom: 0.6rem;
+  padding: 0.35rem 0.55rem;
+  background: var(--dark);
+  color: var(--light);
+  box-shadow: 6px 6px 0 var(--secondary);
+  line-height: 1.15;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  letter-spacing: 0.01em;
+}
+
+h2 {
+  margin-top: 2rem;
+  display: inline-block;
+  background: var(--tertiary);
+  color: var(--dark);
+  padding: 0.2rem 0.55rem;
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: 5px 5px 0 var(--dark);
+}
+
+h3 {
+  margin-top: 1.5rem;
+}
+
+blockquote {
+  margin: 1.25rem 0;
+  padding: 1rem 1.1rem;
+  border: var(--neo-border) solid var(--dark);
+  background: #fff4a8;
+  box-shadow: var(--neo-shadow-sm);
+  font-size: 1.02rem;
+}
+
+code {
+  border: 2px solid var(--dark);
+  border-radius: 0;
+  font-size: 0.92em;
+}
+
+pre {
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: var(--neo-shadow-sm);
+}
+
+a.internal,
+a.external {
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.15em;
+}
+
+a.internal:hover,
+a.external:hover {
+  background: var(--textHighlight);
+}
+
+.search,
+.explorer,
+.toc,
+.page-footer {
+  padding: 1rem;
+}
+
+.search > .search-container,
+.search .search-space,
+.search-bar,
+.explorer-content,
+.toc-content {
+  background: transparent;
+}
+
+.search-bar {
+  border: var(--neo-border) solid var(--dark) !important;
+  box-shadow: var(--neo-shadow-sm);
+  background: #fff !important;
+}
+
+.search-button,
+.darkmode,
+.readermode,
+.explorer-toggle {
+  border: var(--neo-border) solid var(--dark) !important;
+  box-shadow: var(--neo-shadow-sm);
+  background: var(--light) !important;
+}
+
+.search-button:hover,
+.darkmode:hover,
+.readermode:hover,
+.explorer-toggle:hover,
+.folder-button:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 2px 2px 0 var(--dark);
+}
+
+.folder-button {
+  border: 2px solid var(--dark);
+}
+
+ul.tags,
+.tags {
+  gap: 0.4rem;
+}
+
+.tag-link {
+  display: inline-block;
+  padding: 0.1rem 0.45rem;
+  border: 2px solid var(--dark);
+  background: #fff;
+  box-shadow: 3px 3px 0 var(--dark);
+  text-decoration: none;
+}
+
+.tag-link:hover {
+  background: var(--secondary);
+  color: var(--light);
+}
+
+.content hr {
+  border: none;
+  border-top: var(--neo-border) dashed var(--dark);
+  margin: 2rem 0;
+}
+
+.neo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0 1.8rem;
+}
+
+.neo-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  background: #fff;
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: var(--neo-shadow);
+  padding: 1rem;
+  transition:
+    transform 0.12s ease,
+    box-shadow 0.12s ease,
+    background 0.12s ease;
+}
+
+.neo-card strong {
+  display: inline-block;
+  margin-bottom: 0.55rem;
+  font-size: 1.1rem;
+}
+
+.neo-card span {
+  display: block;
+  color: var(--darkgray);
+  line-height: 1.55;
+}
+
+.neo-card:hover {
+  transform: translate(3px, 3px);
+  box-shadow: 5px 5px 0 var(--dark);
+  background: #fff9df;
+}
+
+.neo-banner {
+  margin: 0 0 1rem;
+  padding: 1.2rem 1.2rem 1rem;
+  background: var(--dark);
+  color: var(--light);
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: 10px 10px 0 var(--secondary);
+}
+
+.neo-banner p:last-child {
+  margin-bottom: 0;
+}
+
+.neo-list {
+  margin: 1.2rem 0;
+  padding: 1rem 1rem 1rem 1.2rem;
+  background: #fff;
+  border: var(--neo-border) solid var(--dark);
+  box-shadow: var(--neo-shadow-sm);
+}
+
+.neo-list li + li {
+  margin-top: 0.45rem;
+}
+
+@media (max-width: 1100px) {
+  .page {
+    gap: 1rem;
+  }
+
+  .page article {
+    padding: 1.15rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .neo-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .page-title,
+  .article-title,
+  h2 {
+    box-shadow: 4px 4px 0 var(--dark);
+  }
+}
