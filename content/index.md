@@ -33,8 +33,9 @@ title: GoodlookingProKim
 ## 먼저 읽어보면 좋은 글
 
 <ul class="neo-list">
-  <li><a href="./first-post" class="internal">첫 글 · Quartz 블로그를 열었습니다</a></li>
+  <li><a href="./ai-automation/openclaw-agent-to-agent-setup-manual" class="internal">OpenClaw에서 새 에이전트를 붙이고 대화 테스트까지 끝내는 실전 메뉴얼</a></li>
   <li><a href="./ai-automation/remote-codex-telegram-workflow" class="internal">Codex 프로젝트를 Telegram으로 원격 이어가는 워크플로우</a></li>
+  <li><a href="./first-post" class="internal">첫 글 · Quartz 블로그를 열었습니다</a></li>
 </ul>
 
 ## 이 블로그의 기준
