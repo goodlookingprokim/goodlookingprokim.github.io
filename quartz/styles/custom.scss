@@ -645,6 +645,7 @@ footer li a:hover {
 }
 
 .note-hero,
+.hub-hero,
 .neo-banner,
 .neo-strip {
   margin: 0 0 1.4rem;
@@ -654,13 +655,19 @@ footer li a:hover {
   border-radius: 10px;
 }
 
+.hub-hero {
+  border-left: 3px solid var(--accent);
+}
+
 .note-hero p,
+.hub-hero p,
 .neo-banner p,
 .neo-strip p {
   color: var(--darkgray);
 }
 
 .note-hero p:last-child,
+.hub-hero p:last-child,
 .neo-banner p:last-child,
 .neo-strip p:last-child {
   margin-bottom: 0;
@@ -674,6 +681,162 @@ footer li a:hover {
   font-family: var(--codeFont);
   font-size: 0.76rem;
   font-weight: 600;
+}
+
+.hub-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin: 1.2rem 0 1.8rem;
+}
+
+.hub-card {
+  display: grid;
+  grid-template-rows: auto auto 1fr;
+  gap: 0.42rem;
+  min-height: 100%;
+  padding: 1.05rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--darkgray);
+  text-decoration: none;
+  transition:
+    border-color 0.16s ease,
+    background-color 0.16s ease,
+    transform 0.16s ease;
+}
+
+a.hub-card:hover {
+  background: var(--surface-subtle);
+  border-color: color-mix(in srgb, var(--link) 40%, var(--border));
+  transform: translateY(-1px);
+}
+
+.hub-card.is-pending {
+  background: var(--surface-subtle);
+  border-style: dashed;
+}
+
+.hub-card strong {
+  display: block;
+  color: var(--dark);
+  font-family: var(--headerFont);
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.42;
+  word-break: keep-all;
+}
+
+.hub-card span:not(.hub-status) {
+  display: block;
+  color: var(--muted);
+  font-size: 0.93rem;
+  line-height: 1.66;
+}
+
+.hub-card .hub-meta {
+  align-self: end;
+  margin-top: 0.45rem;
+  padding-top: 0.58rem;
+  border-top: 1px solid var(--border-soft);
+  color: var(--accent);
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.hub-status {
+  display: inline-flex;
+  width: fit-content;
+  align-items: center;
+  min-height: 1.45rem;
+  padding: 0.04rem 0.42rem;
+  background: var(--accent-soft);
+  border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--border-soft));
+  border-radius: 999px;
+  color: var(--accent);
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.empty-state {
+  margin: 1.35rem 0 1.8rem;
+  padding: 1.05rem 1.1rem;
+  background: var(--surface-subtle);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.empty-state p {
+  color: var(--darkgray);
+}
+
+.empty-state p:last-child {
+  margin-bottom: 0;
+}
+
+.reading-path {
+  display: grid;
+  gap: 0.7rem;
+  margin: 1.15rem 0 1.75rem;
+}
+
+.reading-path a {
+  display: grid;
+  gap: 0.28rem;
+  padding: 0.9rem 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--darkgray);
+  text-decoration: none;
+  transition:
+    border-color 0.16s ease,
+    background-color 0.16s ease,
+    transform 0.16s ease;
+}
+
+.reading-path a:hover {
+  background: var(--surface-subtle);
+  border-color: color-mix(in srgb, var(--link) 40%, var(--border));
+  transform: translateY(-1px);
+}
+
+.reading-path strong {
+  color: var(--dark);
+  font-family: var(--headerFont);
+  font-size: 0.98rem;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+.reading-path span {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.62;
+}
+
+.cta-panel {
+  margin: 1.35rem 0 0;
+  padding: 0.95rem 1rem;
+  background: var(--accent-soft);
+  border: 1px solid color-mix(in srgb, var(--accent) 24%, var(--border));
+  border-radius: 10px;
+}
+
+.cta-panel p {
+  color: var(--darkgray);
+}
+
+.cta-panel p:first-child {
+  margin-top: 0;
+}
+
+.cta-panel p:last-child {
+  margin-bottom: 0;
 }
 
 .topic-grid,
@@ -772,8 +935,12 @@ footer li a:hover {
 
 .page article a.topic-card,
 .page article a.topic-card.internal:not(.tag-link),
+.page article a.hub-card,
+.page article a.hub-card.internal:not(.tag-link),
 .page article a.neo-card,
 .page article a.neo-card.internal:not(.tag-link),
+.page article .reading-path a,
+.page article .reading-path a.internal:not(.tag-link),
 .page article .action-row a,
 .page article .action-row a.internal:not(.tag-link),
 .page article .neo-actions a,
@@ -785,8 +952,12 @@ footer li a:hover {
 
 .page article a.topic-card:hover,
 .page article a.topic-card.internal:not(.tag-link):hover,
+.page article a.hub-card:hover,
+.page article a.hub-card.internal:not(.tag-link):hover,
 .page article a.neo-card:hover,
 .page article a.neo-card.internal:not(.tag-link):hover,
+.page article .reading-path a:hover,
+.page article .reading-path a.internal:not(.tag-link):hover,
 .page article .action-row a:hover,
 .page article .action-row a.internal:not(.tag-link):hover,
 .page article .neo-actions a:hover,
@@ -906,6 +1077,7 @@ footer li a:hover {
     font-size: 1.22rem;
   }
 
+  .hub-grid,
   .topic-grid,
   .neo-grid {
     grid-template-columns: 1fr;

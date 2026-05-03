@@ -16,23 +16,30 @@ title: GoodlookingProKim
 
 <div class="action-row">
   <a href="./ai-automation">자동화 기록 보기</a>
+  <a href="./docs-slides">문서 허브 보기</a>
   <a href="./work-notes">작업 노트 보기</a>
 </div>
 
 ## 이 블로그에서 다루는 것
 
-<div class="topic-grid">
-  <a class="topic-card" href="./ai-automation">
+<div class="hub-grid">
+  <a class="hub-card" href="./ai-automation">
+    <span class="hub-status">운영 중 · 3 posts</span>
     <strong>AI · 자동화</strong>
-    <span>OpenClaw, Codex, OpenAB처럼 실제 작업 흐름에 붙는 도구를 실험하고 운영 방식으로 정리합니다.</span>
+    <span>OpenClaw, Codex, Obsidian/QMD, 원격 작업처럼 실제 작업 흐름에 붙는 도구를 운영 기준으로 정리합니다.</span>
+    <span class="hub-meta">대표 글 · OpenClaw 에이전트 연결 메뉴얼</span>
   </a>
-  <a class="topic-card" href="./docs-slides">
+  <a class="hub-card" href="./docs-slides">
+    <span class="hub-status">허브 준비 중</span>
     <strong>문서 · 슬라이드</strong>
-    <span>PPTX, HWPX, 문서 양식과 디자인 철학처럼 결과물의 완성도를 높이는 기록을 쌓습니다.</span>
+    <span>PPTX, HWPX, 문서 자동화처럼 결과물의 완성도를 시스템으로 높이는 기준을 쌓습니다.</span>
+    <span class="hub-meta">준비 중 · PPTX 디자인 기준</span>
   </a>
-  <a class="topic-card" href="./work-notes">
+  <a class="hub-card" href="./work-notes">
+    <span class="hub-status">운영 준비 중</span>
     <strong>작업 노트</strong>
-    <span>짧지만 다시 보면 바로 도움이 되는 실전 메모를 따로 모아둡니다.</span>
+    <span>짧은 판단, 체크리스트, 도구 운영 메모처럼 다음 작업에서 바로 쓰는 기록을 모읍니다.</span>
+    <span class="hub-meta">준비 중 · Codex 작업 루틴</span>
   </a>
 </div>
 
