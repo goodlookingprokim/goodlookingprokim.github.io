@@ -13,5 +13,6 @@ description: OpenClaw, Codex, OpenAB 등 실제 작업 흐름에 붙는 도구 �
 
 ## 최근 글
 
+- [옵시디언 노트를 더 잘 찾는 법, QMD로 로컬 시맨틱 검색 붙이기](./qmd-semantic-search-for-obsidian)
 - [OpenClaw에서 새 에이전트를 붙이고 대화 테스트까지 끝내는 실전 메뉴얼](./openclaw-agent-to-agent-setup-manual)
 - [Codex 프로젝트를 Telegram으로 원격 이어가는 워크플로우](./remote-codex-telegram-workflow)
