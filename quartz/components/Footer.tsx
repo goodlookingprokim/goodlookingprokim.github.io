@@ -1,21 +1,22 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/footer.scss"
-import { version } from "../../package.json"
-import { i18n } from "../i18n"
 
 interface Options {
   links: Record<string, string>
+  message?: string
 }
 
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
+    const message = opts?.message ?? "다음 작업에서 다시 꺼내 쓸 수 있는 기록을 남깁니다."
+
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          <strong>{cfg.pageTitle}</strong> © {year}
+          <span> · {message}</span>
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (

@@ -22,9 +22,11 @@ export const sharedPageComponents: SharedLayout = {
   ],
   afterBody: [],
   footer: Component.Footer({
+    message: "다음 작업에서 다시 꺼내 쓸 수 있는 기록을 남깁니다.",
     links: {
       Home: "https://goodlookingprokim.github.io/",
       GitHub: "https://github.com/goodlookingprokim/goodlookingprokim.github.io",
+      RSS: "https://goodlookingprokim.github.io/index.xml",
     },
   }),
 }
