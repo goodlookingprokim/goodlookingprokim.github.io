@@ -61,6 +61,15 @@ cssclasses:
   <p>새 메모가 발행되기 전에는 아래 글에서 현재 자동화 작업의 기준을 먼저 볼 수 있습니다.</p>
 </div>
 
+## 최근 작업 노트
+
+<div class="reading-path">
+  <a href="./corner-of-the-corner-2026-05-04-lilysai-roundup" class="internal">
+    <strong>코너속의 코너(2026-05-04) · LilysAI 인박스 43건에서 건진 흐름</strong>
+    <span>링크 43건을 그대로 옮기지 않고, 이번 주에 반복해서 드러난 AI 자동화와 지식관리 흐름만 다시 정리한 메모입니다.</span>
+  </a>
+</div>
+
 ## 관련 읽을거리
 
 <div class="reading-path">
