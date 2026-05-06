@@ -56,14 +56,18 @@ cssclasses:
 </div>
 
 <div class="empty-state">
-  <p class="kicker">NO NOTES YET</p>
-  <p><strong>아직 공개된 작업 노트는 없지만, 이 섹션은 운영 메모의 저장소로 준비되어 있습니다.</strong></p>
-  <p>새 메모가 발행되기 전에는 아래 글에서 현재 자동화 작업의 기준을 먼저 볼 수 있습니다.</p>
+  <p class="kicker">WORK NOTES LIVE</p>
+  <p><strong>짧은 메모라도 다음 작업에서 다시 쓸 수 있으면 바로 공개합니다.</strong></p>
+  <p>사이트 리뷰, 운영 판단, 도구 체크리스트처럼 금방 다시 꺼내 쓸 기록을 계속 이 섹션에 쌓아갑니다.</p>
 </div>
 
 ## 최근 작업 노트
 
 <div class="reading-path">
+  <a href="./educatian-open-guides-review-2026-05-06" class="internal">
+    <strong>Educatian을 보고 든 생각 · 논문보다 빠르고 블로그보다 깊은 오픈 가이드 아카이브</strong>
+    <span>Educatian 사이트를 둘러보며, 왜 이런 단일 HTML 기반 오픈 가이드 형식이 지금 연구자와 실무자에게 점점 중요해지는지 정리한 메모입니다.</span>
+  </a>
   <a href="./corner-of-the-corner-2026-05-04-lilysai-roundup" class="internal">
     <strong>코너속의 코너(2026-05-04) · LilysAI 인박스 43건에서 건진 흐름</strong>
     <span>링크 43건을 그대로 옮기지 않고, 이번 주에 반복해서 드러난 AI 자동화와 지식관리 흐름만 다시 정리한 메모입니다.</span>
