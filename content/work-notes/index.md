@@ -64,6 +64,10 @@ cssclasses:
 ## 최근 작업 노트
 
 <div class="reading-path">
+  <a href="./flutterflow-cli-build-with-ai-agents-2026-05-06" class="internal">
+    <strong>FlutterFlow CLI로 AI 에이전트 붙이기 · 문서와 영상으로 정리한 핵심 흐름</strong>
+    <span>FlutterFlow CLI의 Build with AI Agents 문서와 공식 튜토리얼 영상을 함께 읽고, 실제로 어떤 작업 흐름과 운영 감각이 중요한지 정리한 메모입니다.</span>
+  </a>
   <a href="./educatian-open-guides-review-2026-05-06" class="internal">
     <strong>Educatian을 보고 든 생각 · 논문보다 빠르고 블로그보다 깊은 오픈 가이드 아카이브</strong>
     <span>Educatian 사이트를 둘러보며, 왜 이런 단일 HTML 기반 오픈 가이드 형식이 지금 연구자와 실무자에게 점점 중요해지는지 정리한 메모입니다.</span>
