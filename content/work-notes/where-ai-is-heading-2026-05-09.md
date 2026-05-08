@@ -248,3 +248,67 @@ RAG와는 다른 방식으로 지식을 쌓아가는 감각을 익히기에 좋�
 - 오래 쓸 수 있는 작업 시스템으로 만들고 있다.
 
 그래서 요즘 흐름을 따라갈 때도, 새 모델 발표만 쫓는 것보다 **에이전트를 어떻게 운영하고, 지식을 어떻게 축적하고, 결과물을 어떻게 마감하는지**를 같이 보는 편이 훨씬 남는 게 많다.
+
+## 참고 자료
+
+아래 표는 이번 글을 쓰면서 다시 참고한 30개 자료를 주제별로 정리한 것이다. 제목만 모아두면 다시 찾기 불편해서, 한 줄 요약과 원문 링크, LilysAI 공개 링크까지 같이 붙였다.
+
+### 1. AI 에이전트와 코딩 워크플로우
+
+| 제목 | 한 줄 요약 | 원문 링크 | 릴리스 AI 공개 링크 |
+|---|---|---|---|
+| Master of Slide | React와 Markdown 기반으로 슬라이드를 만들고 HTML·PDF·PPTX까지 연결하는 에이전트 친화형 발표 자료 도구 | [원문](https://github.com/reallygood83/master-of-slide) | [요약](https://lilys.ai/digest/9481835/10935258?s=1&noteVersionId=7453620) |
+| User Stories & Use Cases \/ Hermes Agent | Hermes Agent를 병렬 운용, 자동화, 조사 작업에 실제로 적용한 사례를 모은 활용 사례집 | [원문](https://hermes-agent.nousresearch.com/docs/user-stories) | [요약](https://lilys.ai/digest/9469768/10920072?s=1&noteVersionId=7437836) |
+| New Note | Hermes Agent 활용 사례를 다시 스크랩해 빠르게 훑어볼 수 있게 정리한 재확인용 항목 | [원문](https://hermes-agent.nousresearch.com/docs/user-stories) | [요약](https://lilys.ai/digest/9469767/10920071?s=1&noteVersionId=7437835) |
+| DOT Studio | AI 에이전트의 역할과 협업 구조를 시각적으로 설계하는 로컬 캔버스형 작업 공간 | [원문](https://github.com/dance-of-tal/dot-studio) | [요약](https://lilys.ai/digest/9468361/10918087?s=1&noteVersionId=7435692) |
+| Adam | C 언어로 만든 임베디드 AI 에이전트 라이브러리로 도구 호출, 메모리, 세션을 직접 내장하게 돕는 프로젝트 | [원문](https://github.com/sqliteai/adam) | [요약](https://lilys.ai/digest/9468348/10918064?s=1&noteVersionId=7435669) |
+| 클로드 코드 공식 플러그인 4개로 토큰 절약 끝 | Claude Code 플러그인과 세션 리포트, Serena MCP를 활용해 비용과 컨텍스트 낭비를 줄이는 운영 자료 | [원문](https://www.youtube.com/watch?v=L94yAQR9VvA) | [요약](https://lilys.ai/digest/9466550/10915773?s=1&noteVersionId=7432810) |
+| AI 코딩 하네스 벤치마크 결과 | 같은 프롬프트로 여러 Claude Code 하네스를 비교해 품질과 비용, UI 차이를 살펴본 벤치마크 | [원문](https://github.com/first-fluke/oh-my-agent/blob/main/benchmarks/README.ko.md) | [요약](https://lilys.ai/digest/9444489/10888174?s=1&noteVersionId=7402403) |
+| Claude · Codex · Gemini 셋이서 한 작업 — AI Dev Team 데모 | 여러 코딩 에이전트를 역할 분담시켜 단일 에이전트보다 더 객관적인 협업 흐름을 만드는 데모 | [원문](https://www.youtube.com/watch?v=ly5CUJwelFc) | [요약](https://lilys.ai/digest/9444069/10887637?s=1&noteVersionId=7401858) |
+| Ouroboros | 모호한 아이디어를 질문과 온톨로지 분석으로 명확한 개발 사양으로 바꾸는 시스템 | [원문](https://github.com/Q00/ouroboros) | [요약](https://lilys.ai/digest/9441279/10883958?s=1&noteVersionId=7398039) |
+| Hermes 에이전트 리뷰: 670 스킬, LLM Wiki, 텔레그램 봇 연동까지 | Hermes Agent를 스킬, 메모리, LLM Wiki, 텔레그램 연동 관점에서 정리한 종합 리뷰 | [원문](https://www.youtube.com/watch?v=dVMu7vcej14) | [요약](https://lilys.ai/digest/9441016/10883572?s=1&noteVersionId=7397646) |
+
+### 2. LLM Wiki와 개인 지식 시스템
+
+| 제목 | 한 줄 요약 | 원문 링크 | 릴리스 AI 공개 링크 |
+|---|---|---|---|
+| Ollama, LangChain, Obsidian으로 Karpathy의 LLM Wiki 구축하기 | 로컬 문서를 요약하고 핵심 엔티티를 연결해 개인 지식 베이스를 점진적으로 확장하는 방법 | [원문](https://www.youtube.com/watch?v=l4EzuMKmeA0) | [요약](https://lilys.ai/digest/9477304/10929512?s=1&noteVersionId=7447678) |
+| Android에 Hermes 설치: Termux로 AI 에이전트 돌리기 | 안드로이드 Termux에서 Hermes를 돌리고 메시지를 Obsidian과 LLM Wiki로 저장하는 흐름 | [원문](https://www.youtube.com/watch?v=xw4afp4-j9o) | [요약](https://lilys.ai/digest/9466679/10915863?s=1&noteVersionId=7432925) |
+| Karpathy LLM Wiki + InfraNodus | LLM Wiki에 지식 그래프를 결합해 연결의 빈틈과 새로운 질문을 발견하는 방법 | [원문](https://www.youtube.com/watch?v=t61HGh4NsPs) | [요약](https://lilys.ai/digest/9466640/10915820?s=1&noteVersionId=7432869) |
+| LLM WIKI 구축 | 원문 수집, 구조화, 교차 참조, 갱신 흐름으로 개인 위키 자동화를 설명하는 스킬 문서 | [원문](https://github.com/infranodus/skills/blob/master/skill-llm-wiki/SKILL.md) | [요약](https://lilys.ai/digest/9456753/10903723?s=1&noteVersionId=7418476) |
+| Local LLM Wiki 활용법 | 로컬 LLM으로 개인 노트를 인덱싱하고 외부 LLM과 연결해 지식 업데이트를 자동화하는 활용법 | [원문](https://www.youtube.com/watch?v=YCirjfAurng) | [요약](https://lilys.ai/digest/9443748/10887234?s=1&noteVersionId=7401442) |
+
+### 3. 글쓰기, 학습 노트, 콘텐츠 품질 개선
+
+| 제목 | 한 줄 요약 | 원문 링크 | 릴리스 AI 공개 링크 |
+|---|---|---|---|
+| Humanizer, 사람처럼 글쓰기 | AI 문체를 줄이고 더 자연스러운 사람 문장으로 다듬는 후처리 스킬 | [원문](https://github.com/blader/humanizer) | [요약](https://lilys.ai/digest/9468252/10917945?s=1&noteVersionId=7435540) |
+| im-not-ai, 한글 AI 티 제거기 | 한국어 글에서 번역투와 기계적 병렬을 줄여 더 자연스러운 문장으로 바꾸는 스킬 | [원문](https://github.com/epoko77-ai/im-not-ai) | [요약](https://lilys.ai/digest/9468018/10917660?s=1&noteVersionId=7435235) |
+| Claude Watch, 강의 영상을 구조화된 학습 노트로 변환 | 강의 영상을 타임스탬프와 스크린샷이 있는 Markdown 학습 노트로 바꾸는 도구 | [원문](https://github.com/devinilabs/claude-watch) | [요약](https://lilys.ai/digest/9461964/10910265?s=1&noteVersionId=7425371) |
+
+### 4. 로컬 AI, 브라우저, 개인 개발 환경 도구
+
+| 제목 | 한 줄 요약 | 원문 링크 | 릴리스 AI 공개 링크 |
+|---|---|---|---|
+| Gemini Chrome 업데이트 | Chrome 안에서 Gemini가 페이지 요약, 이미지 이해, 멀티탭 비교를 수행하는 흐름을 정리한 자료 | [원문](https://www.youtube.com/watch?v=GDwX09tMMzI) | [요약](https://lilys.ai/digest/9461108/10909193?s=1&noteVersionId=7424096) |
+| Docufinder, PC 문서를 통째로 검색하는 로컬 검색 엔진 | 파일명뿐 아니라 문서 본문으로 검색하고 선택적으로 AI 요약까지 제공하는 로컬 검색 도구 | [원문](https://github.com/chrisryugj/Docufinder) | [요약](https://lilys.ai/digest/9444394/10888058?s=1&noteVersionId=7402286) |
+| Codexy-pet-usage-ring | Codex Desktop의 사용량 제한을 링 형태로 시각화해 작업 리듬을 관리하게 돕는 보조 도구 | [원문](https://github.com/himomohi/Codexy-pet-usages-ring) | [요약](https://lilys.ai/digest/9444346/10888008?s=1&noteVersionId=7402234) |
+| LM Studio로 로컬 AI 모델 실행하기 | 로컬 컴퓨터에서 AI 모델을 실행하는 기본 방법과 장점을 설명하는 입문 자료 | [원문](https://www.youtube.com/watch?v=OOCioZC4tk0) | [요약](https://lilys.ai/digest/9444232/10887857?s=1&noteVersionId=7402081) |
+| USB 드라이브에서 Claude Code 실행하기 | USB 드라이브에서 이동식 AI 코딩 환경을 실행하는 아이디어를 보여주는 실험적 자료 | [원문](https://www.youtube.com/watch?v=9Dh3kKWFFjg) | [요약](https://lilys.ai/digest/9444150/10887749?s=1&noteVersionId=7401971) |
+| Chromex, Codex 크롬브라우저 사이드 패널 | Chrome 사이드패널과 로컬 브리지로 Codex를 연결해 페이지·파일·브라우저 작업을 붙이는 도구 | [원문](https://github.com/GENEXIS-AI/chromex) | [요약](https://lilys.ai/digest/9430764/10870943?s=1&noteVersionId=7384676) |
+| Cloudflare Tunnel | 로컬 프로젝트를 포트 포워딩 없이 외부에 공개해 테스트와 원격 작업 연결에 쓰는 가이드 | 텍스트 노트 | [요약](https://lilys.ai/digest/9428171/10867563?s=1&noteVersionId=7381163) |
+
+### 5. 바이브코딩, 웹 개발, 결과물 비교
+
+| 제목 | 한 줄 요약 | 원문 링크 | 릴리스 AI 공개 링크 |
+|---|---|---|---|
+| 바이브패밀리 — 할일 관리 앱 DOOOZ 개발기 | 가족용 할일 관리 앱을 AI와 대화하며 실제 제품으로 구체화한 바이브코딩 사례 | [원문](https://www.youtube.com/watch?v=G4VliKcuxHo) | [요약](https://lilys.ai/digest/9480751/10933897?s=1&noteVersionId=7452229) |
+| 비개발자 바이브코더를 위한 웹서버 및 배포 지식 | 서버, 도메인, DNS, 데이터베이스, 배포 같은 웹 기본기를 정리한 입문 강의 | [원문](https://www.youtube.com/watch?v=rESpjQLptUs) | [요약](https://lilys.ai/digest/9461062/10909165?s=1&noteVersionId=7424066) |
+| Codex vs Claude Code, 기업 소개 랜딩 페이지 제작 비교 | 같은 랜딩 페이지 과제를 Codex와 Claude Code가 어떻게 다르게 푸는지 비교한 자료 | [원문](https://www.youtube.com/watch?v=pN6jugUyeLk) | [요약](https://lilys.ai/digest/9443778/10887272?s=1&noteVersionId=7401480) |
+
+### 6. 하드웨어와 IoT
+
+| 제목 | 한 줄 요약 | 원문 링크 | 릴리스 AI 공개 링크 |
+|---|---|---|---|
+| Arduino Uno Q 핵심 정리 | Linux와 AI까지 실행 가능한 Arduino Uno Q의 확장된 성격을 다룬 하드웨어 정리 자료 | [원문](https://www.youtube.com/watch?v=HjcXwTvOz9o) | [요약](https://lilys.ai/digest/9443924/10887431?s=1&noteVersionId=7401643) |
+| 맹구 코덱스 펫 | Codex 작업 환경에 커스텀 펫을 추가해 사용 경험을 개인화하는 작은 프로젝트 | [원문](https://github.com/bible-highting/maang9-codex-pet) | [요약](https://lilys.ai/digest/9462171/10910522?s=1&noteVersionId=7425685) |
