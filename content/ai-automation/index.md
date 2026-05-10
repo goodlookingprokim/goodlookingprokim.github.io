@@ -38,6 +38,10 @@ cssclasses:
 ## 대표 읽기 경로
 
 <div class="reading-path">
+  <a href="./oh-my-hermes-deep-dive-for-beginners-2026-05-10" class="internal">
+    <strong>Oh My Hermes 심층 분석</strong>
+    <span>Hermes 위에 어떤 운영 레이어를 얹는 프로젝트인지, 초보 개발자 기준으로 어디부터 이해하면 좋은지 쉽게 풀어쓴 글입니다.</span>
+  </a>
   <a href="./openclaw-agent-to-agent-setup-manual" class="internal">
     <strong>OpenClaw 에이전트 연결 메뉴얼</strong>
     <span>새 에이전트를 붙이고 대화 테스트까지 끝내는 기본 운영 글입니다.</span>
@@ -59,6 +63,7 @@ cssclasses:
 
 ## 최근 글
 
+- [Oh My Hermes 심층 분석 · 초보 개발자도 이해할 수 있게 풀어본 설치형 AI CTO 팩](./oh-my-hermes-deep-dive-for-beginners-2026-05-10)
 - [옵시디언 노트를 더 잘 찾는 법, QMD로 로컬 시맨틱 검색 붙이기](./qmd-semantic-search-for-obsidian)
 - [OpenClaw에서 새 에이전트를 붙이고 대화 테스트까지 끝내는 실전 메뉴얼](./openclaw-agent-to-agent-setup-manual)
 - [Codex 프로젝트를 Telegram으로 원격 이어가는 워크플로우](./remote-codex-telegram-workflow)
