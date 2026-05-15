@@ -64,6 +64,10 @@ cssclasses:
 ## 최근 작업 노트
 
 <div class="reading-path">
+  <a href="./ai-tech-trends-learning-pack-60-2026-05-16" class="internal">
+    <strong>AI는 이제 답변기보다 작업 시스템에 가까워지고 있다</strong>
+    <span>최근 AI·기술 자료 60선을 다시 묶어보며 Codex, Claude Code, Hermes, MCP, LLM Wiki, 공공 문서 자동화, 로컬 AI 쪽으로 무게중심이 어떻게 이동하는지 정리한 글입니다.</span>
+  </a>
   <a href="./where-ai-is-heading-2026-05-09" class="internal">
     <strong>요즘 AI는 어디로 가고 있나 · 30개 자료로 다시 읽은 최근 AI·기술 흐름</strong>
     <span>AI 에이전트, LLM Wiki, 로컬 AI, 코딩 하네스, 브라우저 도구까지 최근 30개 자료를 다시 묶어보며 지금 어디에 무게가 실리고 있는지 정리한 메모입니다.</span>
