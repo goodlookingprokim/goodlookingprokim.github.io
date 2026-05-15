@@ -1,13 +1,13 @@
 ---
-title: AI는 이제 답변기보다 작업 시스템에 가까워지고 있다 · 최근 AI·기술 자료 60선에서 읽은 흐름
-description: Codex, Claude Code, Hermes, MCP, LLM Wiki, 로컬 AI, 공공 문서 자동화까지 60개 자료를 다시 묶어보며 지금 AI 흐름의 무게중심이 어디로 옮겨가고 있는지 정리한 글
+title: 2026-05-16 · 작업 시스템이 먼저다 · 릴리스 60건
+description: Codex, Claude Code, Hermes, MCP, LLM Wiki, 로컬 AI, 공공 문서 자동화까지 60개 자료를 다시 묶어 지금 AI 흐름의 중심이 작업 시스템 쪽으로 이동하고 있음을 정리한 글
 tags:
   - curation
   - ai-trends
   - ai-automation
   - developer-tools
   - local-ai
-  - work-notes
+  - corner-of-the-corner
 created: "2026-05-16"
 modified: "2026-05-16"
 publish: true
@@ -15,7 +15,7 @@ cssclasses:
   - quick-note
 ---
 
-# AI는 이제 답변기보다 작업 시스템에 가까워지고 있다 · 최근 AI·기술 자료 60선에서 읽은 흐름
+# 2026-05-16 · 작업 시스템이 먼저다 · 릴리스 60건
 
 요즘 AI 흐름을 따라가다 보면, 예전과는 확실히 다른 공기가 느껴진다.
 

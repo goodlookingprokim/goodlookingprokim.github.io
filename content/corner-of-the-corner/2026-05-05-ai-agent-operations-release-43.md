@@ -1,12 +1,12 @@
 ---
-title: 코너속의 코너(2026-05-04) · LilysAI 인박스 43건에서 건진 흐름
-description: LilysAI 인박스 43건 공개 배포 링크를 바탕으로, 이번 주에 눈에 띈 AI 자동화·지식관리·유틸리티 흐름을 블로그용으로 다시 정리한 메모
+title: 2026-05-05 · 연결과 운영이 본체다 · 릴리스 43건
+description: LilysAI 인박스 43건을 다시 읽으며, 이번 주 AI 흐름의 중심이 모델 비교보다 연결과 운영 설계로 이동하고 있음을 정리한 글
 tags:
   - curation
   - ai-automation
   - openclaw
   - obsidian
-  - work-notes
+  - corner-of-the-corner
 created: "2026-05-05"
 modified: "2026-05-05"
 publish: true
@@ -14,7 +14,7 @@ cssclasses:
   - quick-note
 ---
 
-# 코너속의 코너(2026-05-04) · LilysAI 인박스 43건에서 건진 흐름
+# 2026-05-05 · 연결과 운영이 본체다 · 릴리스 43건
 
 이번에 받은 공유 노트는 단순 링크 모음이라기보다,
 요즘 사람들이 AI 에이전트를 어디에 붙이고 있는지 빠르게 훑어보는 메모에 가까웠다.

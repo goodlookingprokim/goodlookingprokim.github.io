@@ -1,13 +1,13 @@
 ---
-title: 요즘 AI는 어디로 가고 있나 · 30개 자료로 다시 읽은 최근 AI·기술 흐름
-description: AI 에이전트, LLM Wiki, 로컬 AI, 코딩 하네스, 브라우저 도구까지 최근 30개 자료를 다시 묶어보며 지금 어디에 무게가 실리고 있는지 정리한 메모
+title: 2026-05-09 · 운영이 실력을 이긴다 · 릴리스 30건
+description: AI 에이전트, LLM Wiki, 로컬 AI, 코딩 하네스, 브라우저 도구까지 30개 자료를 다시 묶어 지금 흐름의 무게중심이 운영 구조로 옮겨가고 있음을 정리한 글
 tags:
   - curation
   - ai-trends
   - ai-automation
   - local-llm
   - developer-tools
-  - work-notes
+  - corner-of-the-corner
 created: "2026-05-09"
 modified: "2026-05-09"
 publish: true
@@ -15,7 +15,7 @@ cssclasses:
   - quick-note
 ---
 
-# 요즘 AI는 어디로 가고 있나 · 30개 자료로 다시 읽은 최근 AI·기술 흐름
+# 2026-05-09 · 운영이 실력을 이긴다 · 릴리스 30건
 
 요즘 AI 흐름을 제대로 따라가려면, 새 모델 발표만 봐서는 부족하다.
 

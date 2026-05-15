@@ -64,14 +64,6 @@ cssclasses:
 ## 최근 작업 노트
 
 <div class="reading-path">
-  <a href="./ai-tech-trends-learning-pack-60-2026-05-16" class="internal">
-    <strong>AI는 이제 답변기보다 작업 시스템에 가까워지고 있다</strong>
-    <span>최근 AI·기술 자료 60선을 다시 묶어보며 Codex, Claude Code, Hermes, MCP, LLM Wiki, 공공 문서 자동화, 로컬 AI 쪽으로 무게중심이 어떻게 이동하는지 정리한 글입니다.</span>
-  </a>
-  <a href="./where-ai-is-heading-2026-05-09" class="internal">
-    <strong>요즘 AI는 어디로 가고 있나 · 30개 자료로 다시 읽은 최근 AI·기술 흐름</strong>
-    <span>AI 에이전트, LLM Wiki, 로컬 AI, 코딩 하네스, 브라우저 도구까지 최근 30개 자료를 다시 묶어보며 지금 어디에 무게가 실리고 있는지 정리한 메모입니다.</span>
-  </a>
   <a href="./flutterflow-cli-build-with-ai-agents-2026-05-06" class="internal">
     <strong>FlutterFlow CLI로 AI 에이전트 붙이기 · 문서와 영상으로 정리한 핵심 흐름</strong>
     <span>FlutterFlow CLI의 Build with AI Agents 문서와 공식 튜토리얼 영상을 함께 읽고, 실제로 어떤 작업 흐름과 운영 감각이 중요한지 정리한 메모입니다.</span>
@@ -80,15 +72,15 @@ cssclasses:
     <strong>Educatian을 보고 든 생각 · 논문보다 빠르고 블로그보다 깊은 오픈 가이드 아카이브</strong>
     <span>Educatian 사이트를 둘러보며, 왜 이런 단일 HTML 기반 오픈 가이드 형식이 지금 연구자와 실무자에게 점점 중요해지는지 정리한 메모입니다.</span>
   </a>
-  <a href="./corner-of-the-corner-2026-05-04-lilysai-roundup" class="internal">
-    <strong>코너속의 코너(2026-05-04) · LilysAI 인박스 43건에서 건진 흐름</strong>
-    <span>링크 43건을 그대로 옮기지 않고, 이번 주에 반복해서 드러난 AI 자동화와 지식관리 흐름만 다시 정리한 메모입니다.</span>
-  </a>
 </div>
 
 ## 관련 읽을거리
 
 <div class="reading-path">
+  <a href="../corner-of-the-corner" class="internal">
+    <strong>코너 속의 코너</strong>
+    <span>릴리스 자료와 공유 노트를 다시 읽어, 그날의 흐름을 짧은 한마디와 자료 건수로 남기는 큐레이션 카테고리입니다.</span>
+  </a>
   <a href="../ai-automation" class="internal">
     <strong>AI · 자동화 허브</strong>
     <span>현재 가장 많이 쌓인 실험과 운영 기록입니다.</span>
