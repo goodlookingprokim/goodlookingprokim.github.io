@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="./2026-05-23-work-environment-becomes-the-core-release-50" class="internal">
+    <strong>2026-05-23 · 작업 환경이 본체가 된다 · 릴리스 50건</strong>
+    <span>Codex, Claude Code, Hermes, 로컬 AI, 문서 포맷, 브라우저 자동화까지 최근 50개 자료를 다시 묶어 이제 AI 경쟁의 본체가 작업 환경과 운영 구조 쪽으로 이동하고 있음을 읽은 글입니다.</span>
+  </a>
   <a href="./2026-05-16-work-systems-over-models-release-60" class="internal">
     <strong>2026-05-16 · 작업 시스템이 먼저다 · 릴리스 60건</strong>
     <span>Codex, Claude Code, Hermes, MCP, LLM Wiki, 공공 문서 자동화, 로컬 AI까지 60개 자료를 다시 묶어 지금 AI 흐름의 무게중심을 읽은 글입니다.</span>
@@ -45,10 +49,6 @@ cssclasses:
   <a href="./2026-05-09-ai-operations-shift-release-30" class="internal">
     <strong>2026-05-09 · 운영이 실력을 이긴다 · 릴리스 30건</strong>
     <span>에이전트, 지식 시스템, 로컬 도구, 후처리 흐름을 중심으로 최근 AI·기술 자료 30개를 다시 읽은 글입니다.</span>
-  </a>
-  <a href="./2026-05-05-ai-agent-operations-release-43" class="internal">
-    <strong>2026-05-05 · 연결과 운영이 본체다 · 릴리스 43건</strong>
-    <span>LilysAI 인박스 43건을 다시 정리하며, 왜 요즘 AI 흐름이 모델 비교보다 운영 설계 쪽으로 이동하는지 읽어낸 글입니다.</span>
   </a>
 </div>
 
