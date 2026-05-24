@@ -63,6 +63,7 @@ cssclasses:
 
 ## 최근 글
 
+- [로컬 AI와 클라우드 AI, 언제 어떻게 나눠 써야 할까? 결국 중요한 건 성능보다 작업의 성격이다](./when-to-use-local-ai-vs-cloud-ai-2026-05-25)
 - [`mlx-lm` 설치했는데 왜 안 될까? Apple Silicon Mac에서 자주 막히는 에러와 해결 가이드](./mlx-lm-install-errors-on-mac-and-how-to-fix-them-2026-05-25)
 - [Mac 로컬 AI 처음 돌릴 때 어떤 모델부터 써야 할까? Apple Silicon 입문용 MLX 모델 추천](./which-mlx-model-should-you-start-with-on-mac-2026-05-25)
 - [Mac에서 Claude Opus처럼 생각하는 로컬 AI를 돌린다고? `mlx_lm.generate` 명령어를 초보자 기준으로 다시 뜯어봤다](./run-claude-opus-style-local-ai-on-mac-with-mlx-lm-2026-05-25)
