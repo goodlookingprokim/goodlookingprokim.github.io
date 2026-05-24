@@ -63,6 +63,7 @@ cssclasses:
 
 ## 최근 글
 
+- [`mlx-lm` 설치했는데 왜 안 될까? Apple Silicon Mac에서 자주 막히는 에러와 해결 가이드](./mlx-lm-install-errors-on-mac-and-how-to-fix-them-2026-05-25)
 - [Mac 로컬 AI 처음 돌릴 때 어떤 모델부터 써야 할까? Apple Silicon 입문용 MLX 모델 추천](./which-mlx-model-should-you-start-with-on-mac-2026-05-25)
 - [Mac에서 Claude Opus처럼 생각하는 로컬 AI를 돌린다고? `mlx_lm.generate` 명령어를 초보자 기준으로 다시 뜯어봤다](./run-claude-opus-style-local-ai-on-mac-with-mlx-lm-2026-05-25)
 - [Oh My Hermes 심층 분석 · 초보 개발자도 이해할 수 있게 풀어본 설치형 AI CTO 팩](./oh-my-hermes-deep-dive-for-beginners-2026-05-10)
