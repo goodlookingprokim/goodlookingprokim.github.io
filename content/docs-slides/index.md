@@ -55,15 +55,13 @@ cssclasses:
   </div>
 </div>
 
-<div class="empty-state">
-  <p class="kicker">NO POSTS YET</p>
-  <p><strong>아직 발행된 글은 없지만, 이 섹션의 역할은 정해져 있습니다.</strong></p>
-  <p>새 글이 올라오기 전까지는 아래 관련 글에서 이 블로그의 자동화와 제작 철학을 먼저 확인할 수 있습니다.</p>
-</div>
-
-## 관련 읽을거리
+## 대표 읽기 경로
 
 <div class="reading-path">
+  <a href="./exam-studio-hwpx-math-exam-workflow-2026-05-26" class="internal">
+    <strong>PDF에서 HWPX 수학 시험지까지 한 번에 가려는 시도, exam-studio를 읽어봤다</strong>
+    <span>GitHub 저장소의 출처를 먼저 밝히고, 수학 기출 PDF를 HWPX 시험지 제작 워크플로우로 바꾸는 구조와 현실적인 장단점을 정리한 글입니다.</span>
+  </a>
   <a href="../ai-automation" class="internal">
     <strong>AI · 자동화 허브</strong>
     <span>문서 제작을 자동화 파이프라인으로 연결하는 기반 흐름을 봅니다.</span>
@@ -72,10 +70,11 @@ cssclasses:
     <strong>OpenClaw 에이전트 연결 메뉴얼</strong>
     <span>작업 자동화를 실제 운영 단계로 끌어올린 기록입니다.</span>
   </a>
-  <a href="../first-post" class="internal">
-    <strong>첫 글 · Quartz 블로그를 열었습니다</strong>
-    <span>이 블로그가 어떤 기록을 쌓기 위해 시작됐는지 확인합니다.</span>
-  </a>
+</div>
+
+<div class="cta-panel">
+  <p><strong>다음 발행 기준</strong></p>
+  <p>가짜 샘플 대신 실제로 만든 문서와 슬라이드에서 재사용 가능한 판단만 선별해 추가합니다.</p>
 </div>
 
 <div class="cta-panel">
