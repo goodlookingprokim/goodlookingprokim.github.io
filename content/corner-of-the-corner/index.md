@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="./2026-05-30-procedure-becomes-the-asset-release-30" class="internal">
+    <strong>2026-05-30 · 절차가 자산이 되는 쪽으로 간다 · 릴리스 30건</strong>
+    <span>Hermes, OpenClaw, Claude·Codex 동적 워크플로우, Matt Pocock Skills, PDF·HWPX·브라우저·로컬 모델 자료까지 최근 30개를 다시 묶어 AI 경쟁력이 모델 이름보다 절차의 고정과 운영 구조 쪽으로 이동하고 있음을 읽은 글입니다.</span>
+  </a>
   <a href="./2026-05-25-agent-becomes-an-operating-system-release-20" class="internal">
     <strong>2026-05-25 · 에이전트는 운영 체계가 된다 · 릴리스 20건</strong>
     <span>OpenClaw와 Hermes의 역할 분리, LLM Wiki, LM Studio, Gemini Omni까지 최근 20개 자료를 다시 묶어 개인 AI의 승부처가 기능 수보다 운영 구조와 기억 체계 쪽으로 이동하고 있음을 읽은 글입니다.</span>
@@ -45,10 +49,6 @@ cssclasses:
   <a href="./2026-05-23-work-environment-becomes-the-core-release-50" class="internal">
     <strong>2026-05-23 · 작업 환경이 본체가 된다 · 릴리스 50건</strong>
     <span>Codex, Claude Code, Hermes, 로컬 AI, 문서 포맷, 브라우저 자동화까지 최근 50개 자료를 다시 묶어 이제 AI 경쟁의 본체가 작업 환경과 운영 구조 쪽으로 이동하고 있음을 읽은 글입니다.</span>
-  </a>
-  <a href="./2026-05-16-work-systems-over-models-release-60" class="internal">
-    <strong>2026-05-16 · 작업 시스템이 먼저다 · 릴리스 60건</strong>
-    <span>Codex, Claude Code, Hermes, MCP, LLM Wiki, 공공 문서 자동화, 로컬 AI까지 60개 자료를 다시 묶어 지금 AI 흐름의 무게중심을 읽은 글입니다.</span>
   </a>
 </div>
 
