@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="./2026-06-06-automation-expands-and-review-lines-sharpen-release-40" class="internal">
+    <strong>2026-06-06 · 자동화는 넓어지고 검수선은 더 또렷해진다 · 릴리스 40건</strong>
+    <span>Hermes, Codex, Claude Code, NotebookLM, HWPX, 음성 AI, 로컬 도구까지 최근 40개 자료를 다시 묶어, 자동화 범위가 넓어질수록 사람이 검수해야 할 경계가 더 중요해지고 있음을 읽은 글입니다.</span>
+  </a>
   <a href="./2026-05-30-procedure-becomes-the-asset-release-30" class="internal">
     <strong>2026-05-30 · 절차가 자산이 되는 쪽으로 간다 · 릴리스 30건</strong>
     <span>Hermes, OpenClaw, Claude·Codex 동적 워크플로우, Matt Pocock Skills, PDF·HWPX·브라우저·로컬 모델 자료까지 최근 30개를 다시 묶어 AI 경쟁력이 모델 이름보다 절차의 고정과 운영 구조 쪽으로 이동하고 있음을 읽은 글입니다.</span>
