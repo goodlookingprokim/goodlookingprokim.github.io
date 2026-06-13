@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="./2026-06-13-operation-loops-over-tool-collecting-release-40" class="internal">
+    <strong>2026-06-13 · 도구 수집보다 운영 루프가 먼저다 · 릴리스 40건</strong>
+    <span>에이전트 운영, LLM Wiki, 로컬 모델, 디자인 자동화까지 최근 40개 자료를 다시 묶어, 이제 중요한 차이가 새 도구 수집보다 자료를 구조화하고 맡기고 검수하는 운영 루프 설계 쪽으로 옮겨가고 있음을 읽은 글입니다.</span>
+  </a>
   <a href="./2026-06-06-automation-expands-and-review-lines-sharpen-release-40" class="internal">
     <strong>2026-06-06 · 자동화는 넓어지고 검수선은 더 또렷해진다 · 릴리스 40건</strong>
     <span>Hermes, Codex, Claude Code, NotebookLM, HWPX, 음성 AI, 로컬 도구까지 최근 40개 자료를 다시 묶어, 자동화 범위가 넓어질수록 사람이 검수해야 할 경계가 더 중요해지고 있음을 읽은 글입니다.</span>
@@ -49,10 +53,6 @@ cssclasses:
   <a href="./2026-05-25-agent-becomes-an-operating-system-release-20" class="internal">
     <strong>2026-05-25 · 에이전트는 운영 체계가 된다 · 릴리스 20건</strong>
     <span>OpenClaw와 Hermes의 역할 분리, LLM Wiki, LM Studio, Gemini Omni까지 최근 20개 자료를 다시 묶어 개인 AI의 승부처가 기능 수보다 운영 구조와 기억 체계 쪽으로 이동하고 있음을 읽은 글입니다.</span>
-  </a>
-  <a href="./2026-05-23-work-environment-becomes-the-core-release-50" class="internal">
-    <strong>2026-05-23 · 작업 환경이 본체가 된다 · 릴리스 50건</strong>
-    <span>Codex, Claude Code, Hermes, 로컬 AI, 문서 포맷, 브라우저 자동화까지 최근 50개 자료를 다시 묶어 이제 AI 경쟁의 본체가 작업 환경과 운영 구조 쪽으로 이동하고 있음을 읽은 글입니다.</span>
   </a>
 </div>
 
