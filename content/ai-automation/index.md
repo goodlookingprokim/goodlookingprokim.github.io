@@ -63,6 +63,7 @@ cssclasses:
 
 ## 최근 글
 
+- [BananaX를 그냥 프롬프트 모음으로 보면 아깝다: 초보자도 바로 써먹는 인포그래픽 활용 허브](./bananax-practical-infographic-workflow-guide-2026-06-19)
 - [Mac 로컬 AI로 바로 써먹는 실전 프롬프트 10선: Apple Silicon 입문자가 가장 먼저 돌려볼 만한 질문들](./practical-local-ai-prompts-on-mac-2026-05-25)
 - [Mac 로컬 AI로 블로그 초안 쓰는 실제 워크플로우: 메모를 글로 바꾸는 가장 현실적인 순서](./local-ai-blog-drafting-workflow-on-mac-2026-05-25)
 - [로컬 AI와 클라우드 AI, 언제 어떻게 나눠 써야 할까? 결국 중요한 건 성능보다 작업의 성격이다](./when-to-use-local-ai-vs-cloud-ai-2026-05-25)
