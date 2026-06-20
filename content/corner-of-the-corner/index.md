@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="./2026-06-20-context-and-verification-become-the-new-basics-release-40" class="internal">
+    <strong>2026-06-20 · 문맥과 검증이 새 기본기가 된다 · 릴리스 40건</strong>
+    <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이제 중요한 차이가 더 센 모델을 아는가보다 문맥을 쌓고 역할을 나누고 검증 증거를 남기는 기본기를 갖췄는가 쪽으로 옮겨가고 있음을 읽은 글입니다.</span>
+  </a>
   <a href="./2026-06-13-operation-loops-over-tool-collecting-release-40" class="internal">
     <strong>2026-06-13 · 도구 수집보다 운영 루프가 먼저다 · 릴리스 40건</strong>
     <span>에이전트 운영, LLM Wiki, 로컬 모델, 디자인 자동화까지 최근 40개 자료를 다시 묶어, 이제 중요한 차이가 새 도구 수집보다 자료를 구조화하고 맡기고 검수하는 운영 루프 설계 쪽으로 옮겨가고 있음을 읽은 글입니다.</span>
