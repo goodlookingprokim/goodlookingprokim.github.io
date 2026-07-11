@@ -367,12 +367,15 @@ blockquote p:last-child {
   border: 1px solid var(--border);
   border-radius: 8px;
   background: var(--surface);
-  overflow-x: auto;
+  overflow-x: clip;
 }
 
 table {
   border-collapse: collapse;
+  width: 100%;
   min-width: 100%;
+  table-layout: fixed;
+  font-size: 0.94rem;
 }
 
 th,
@@ -380,6 +383,9 @@ td {
   border-bottom: 1px solid var(--border-soft);
   padding: 0.62rem 0.75rem;
   vertical-align: top;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 thead {
@@ -389,6 +395,14 @@ thead {
 thead th {
   color: var(--dark);
   font-weight: 600;
+}
+
+.table-container a,
+td a,
+th a {
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: break-all;
 }
 
 code {
