@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="./2026-07-11-ai-expands-into-tool-operating-systems-release-40" class="internal">
+    <strong>2026-07-11 · AI는 도구 운영체계로 확장된다 · 릴리스 40건</strong>
+    <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이번 변화의 핵심이 새 모델 감탄보다 AI가 브라우저, 문서, 로컬 앱, 지식베이스 같은 실제 작업 표면에 직접 붙는 도구 운영체계로 확장되고 있다는 데 있음을 읽은 글입니다.</span>
+  </a>
   <a href="./2026-07-04-ai-needs-a-better-work-environment-release-40" class="internal">
     <strong>2026-07-04 · AI는 더 잘 일할 환경을 원한다 · 릴리스 40건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이제 중요한 차이가 더 센 모델을 찾는 데보다 AI가 안정적으로 일할 작업 환경과 지식 기반, 로컬 자동화 표면, 학습 절차를 설계하는 데 옮겨가고 있음을 읽은 글입니다.</span>
