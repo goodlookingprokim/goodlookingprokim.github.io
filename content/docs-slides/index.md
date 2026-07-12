@@ -58,15 +58,15 @@ cssclasses:
 ## 대표 읽기 경로
 
 <div class="reading-path">
-  <a href="./exam-studio-hwpx-math-exam-workflow-2026-05-26" class="internal">
+  <a href="https://goodlookingprokim.github.io/docs-slides/exam-studio-hwpx-math-exam-workflow-2026-05-26" class="internal">
     <strong>PDF에서 HWPX 수학 시험지까지 한 번에 가려는 시도, exam-studio를 읽어봤다</strong>
     <span>GitHub 저장소의 출처를 먼저 밝히고, 수학 기출 PDF를 HWPX 시험지 제작 워크플로우로 바꾸는 구조와 현실적인 장단점을 정리한 글입니다.</span>
   </a>
-  <a href="../ai-automation" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation" class="internal">
     <strong>AI · 자동화 허브</strong>
     <span>문서 제작을 자동화 파이프라인으로 연결하는 기반 흐름을 봅니다.</span>
   </a>
-  <a href="../ai-automation/openclaw-agent-to-agent-setup-manual" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation/openclaw-agent-to-agent-setup-manual" class="internal">
     <strong>OpenClaw 에이전트 연결 메뉴얼</strong>
     <span>작업 자동화를 실제 운영 단계로 끌어올린 기록입니다.</span>
   </a>

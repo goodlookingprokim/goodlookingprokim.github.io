@@ -38,35 +38,35 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
-  <a href="./2026-07-11-ai-expands-into-tool-operating-systems-release-40" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-11-ai-expands-into-tool-operating-systems-release-40" class="internal">
     <strong>2026-07-11 · AI는 도구 운영체계로 확장된다 · 릴리스 40건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이번 변화의 핵심이 새 모델 감탄보다 AI가 브라우저, 문서, 로컬 앱, 지식베이스 같은 실제 작업 표면에 직접 붙는 도구 운영체계로 확장되고 있다는 데 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-07-04-ai-needs-a-better-work-environment-release-40" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-04-ai-needs-a-better-work-environment-release-40" class="internal">
     <strong>2026-07-04 · AI는 더 잘 일할 환경을 원한다 · 릴리스 40건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이제 중요한 차이가 더 센 모델을 찾는 데보다 AI가 안정적으로 일할 작업 환경과 지식 기반, 로컬 자동화 표면, 학습 절차를 설계하는 데 옮겨가고 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-06-27-agents-expand-into-the-whole-work-surface-release-50" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-06-27-agents-expand-into-the-whole-work-surface-release-50" class="internal">
     <strong>2026-06-27 · 에이전트는 작업면 전체로 번진다 · 릴리스 50건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 50을 다시 묶어, 이제 중요한 변화가 새 모델 감탄보다 에이전트가 코딩, 브라우저, 문서, 지식 노트, 배포 습관까지 작업면 전체로 번져 들어가고 있다는 데 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-06-20-context-and-verification-become-the-new-basics-release-40" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-06-20-context-and-verification-become-the-new-basics-release-40" class="internal">
     <strong>2026-06-20 · 문맥과 검증이 새 기본기가 된다 · 릴리스 40건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이제 중요한 차이가 더 센 모델을 아는가보다 문맥을 쌓고 역할을 나누고 검증 증거를 남기는 기본기를 갖췄는가 쪽으로 옮겨가고 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-06-13-operation-loops-over-tool-collecting-release-40" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-06-13-operation-loops-over-tool-collecting-release-40" class="internal">
     <strong>2026-06-13 · 도구 수집보다 운영 루프가 먼저다 · 릴리스 40건</strong>
     <span>에이전트 운영, LLM Wiki, 로컬 모델, 디자인 자동화까지 최근 40개 자료를 다시 묶어, 이제 중요한 차이가 새 도구 수집보다 자료를 구조화하고 맡기고 검수하는 운영 루프 설계 쪽으로 옮겨가고 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-06-06-automation-expands-and-review-lines-sharpen-release-40" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-06-06-automation-expands-and-review-lines-sharpen-release-40" class="internal">
     <strong>2026-06-06 · 자동화는 넓어지고 검수선은 더 또렷해진다 · 릴리스 40건</strong>
     <span>Hermes, Codex, Claude Code, NotebookLM, HWPX, 음성 AI, 로컬 도구까지 최근 40개 자료를 다시 묶어, 자동화 범위가 넓어질수록 사람이 검수해야 할 경계가 더 중요해지고 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-05-30-procedure-becomes-the-asset-release-30" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-05-30-procedure-becomes-the-asset-release-30" class="internal">
     <strong>2026-05-30 · 절차가 자산이 되는 쪽으로 간다 · 릴리스 30건</strong>
     <span>Hermes, OpenClaw, Claude·Codex 동적 워크플로우, Matt Pocock Skills, PDF·HWPX·브라우저·로컬 모델 자료까지 최근 30개를 다시 묶어 AI 경쟁력이 모델 이름보다 절차의 고정과 운영 구조 쪽으로 이동하고 있음을 읽은 글입니다.</span>
   </a>
-  <a href="./2026-05-25-agent-becomes-an-operating-system-release-20" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-05-25-agent-becomes-an-operating-system-release-20" class="internal">
     <strong>2026-05-25 · 에이전트는 운영 체계가 된다 · 릴리스 20건</strong>
     <span>OpenClaw와 Hermes의 역할 분리, LLM Wiki, LM Studio, Gemini Omni까지 최근 20개 자료를 다시 묶어 개인 AI의 승부처가 기능 수보다 운영 구조와 기억 체계 쪽으로 이동하고 있음을 읽은 글입니다.</span>
   </a>

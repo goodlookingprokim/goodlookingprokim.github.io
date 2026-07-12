@@ -64,11 +64,11 @@ cssclasses:
 ## 최근 작업 노트
 
 <div class="reading-path">
-  <a href="./flutterflow-cli-build-with-ai-agents-2026-05-06" class="internal">
+  <a href="https://goodlookingprokim.github.io/work-notes/flutterflow-cli-build-with-ai-agents-2026-05-06" class="internal">
     <strong>FlutterFlow CLI로 AI 에이전트 붙이기 · 문서와 영상으로 정리한 핵심 흐름</strong>
     <span>FlutterFlow CLI의 Build with AI Agents 문서와 공식 튜토리얼 영상을 함께 읽고, 실제로 어떤 작업 흐름과 운영 감각이 중요한지 정리한 메모입니다.</span>
   </a>
-  <a href="./educatian-open-guides-review-2026-05-06" class="internal">
+  <a href="https://goodlookingprokim.github.io/work-notes/educatian-open-guides-review-2026-05-06" class="internal">
     <strong>Educatian을 보고 든 생각 · 논문보다 빠르고 블로그보다 깊은 오픈 가이드 아카이브</strong>
     <span>Educatian 사이트를 둘러보며, 왜 이런 단일 HTML 기반 오픈 가이드 형식이 지금 연구자와 실무자에게 점점 중요해지는지 정리한 메모입니다.</span>
   </a>
@@ -77,19 +77,19 @@ cssclasses:
 ## 관련 읽을거리
 
 <div class="reading-path">
-  <a href="../corner-of-the-corner" class="internal">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner" class="internal">
     <strong>코너 속의 코너</strong>
     <span>릴리스 자료와 공유 노트를 다시 읽어, 그날의 흐름을 짧은 한마디와 자료 건수로 남기는 큐레이션 카테고리입니다.</span>
   </a>
-  <a href="../ai-automation" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation" class="internal">
     <strong>AI · 자동화 허브</strong>
     <span>현재 가장 많이 쌓인 실험과 운영 기록입니다.</span>
   </a>
-  <a href="../ai-automation/qmd-semantic-search-for-obsidian" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation/qmd-semantic-search-for-obsidian" class="internal">
     <strong>QMD로 로컬 시맨틱 검색 붙이기</strong>
     <span>노트가 쌓였을 때 다시 찾을 수 있게 만드는 검색 실험입니다.</span>
   </a>
-  <a href="../first-post" class="internal">
+  <a href="https://goodlookingprokim.github.io/first-post" class="internal">
     <strong>첫 글 · Quartz 블로그를 열었습니다</strong>
     <span>이 블로그가 어떤 기록 방식을 목표로 하는지 확인합니다.</span>
   </a>

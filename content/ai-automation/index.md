@@ -38,19 +38,19 @@ cssclasses:
 ## 대표 읽기 경로
 
 <div class="reading-path">
-  <a href="./oh-my-hermes-deep-dive-for-beginners-2026-05-10" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation/oh-my-hermes-deep-dive-for-beginners-2026-05-10" class="internal">
     <strong>Oh My Hermes 심층 분석</strong>
     <span>Hermes 위에 어떤 운영 레이어를 얹는 프로젝트인지, 초보 개발자 기준으로 어디부터 이해하면 좋은지 쉽게 풀어쓴 글입니다.</span>
   </a>
-  <a href="./openclaw-agent-to-agent-setup-manual" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation/openclaw-agent-to-agent-setup-manual" class="internal">
     <strong>OpenClaw 에이전트 연결 메뉴얼</strong>
     <span>새 에이전트를 붙이고 대화 테스트까지 끝내는 기본 운영 글입니다.</span>
   </a>
-  <a href="./remote-codex-telegram-workflow" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation/remote-codex-telegram-workflow" class="internal">
     <strong>Codex 프로젝트를 Telegram으로 이어가기</strong>
     <span>원격으로 작업을 이어가려는 사람에게 먼저 필요한 흐름입니다.</span>
   </a>
-  <a href="./qmd-semantic-search-for-obsidian" class="internal">
+  <a href="https://goodlookingprokim.github.io/ai-automation/qmd-semantic-search-for-obsidian" class="internal">
     <strong>QMD로 로컬 시맨틱 검색 붙이기</strong>
     <span>쌓인 노트를 다시 찾기 위한 로컬 검색 실험입니다.</span>
   </a>
