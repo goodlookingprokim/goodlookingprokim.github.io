@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
       title: "GoodlookingProKim",
       subtitle: "AI 자동화, 문서 제작, 작업 노트를 바로 다시 쓸 수 있게 정리하는 실전 테크 블로그",
       links: [
+        { label: "코너 속의 코너", href: "corner-of-the-corner" },
         { label: "AI 자동화", href: "ai-automation" },
         { label: "문서와 슬라이드", href: "docs-slides" },
         { label: "작업 노트", href: "work-notes" },
