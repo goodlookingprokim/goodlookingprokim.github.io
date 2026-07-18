@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-18-agents-deepen-into-execution-and-verification-release-50" class="internal">
+    <strong>2026-07-18 · 에이전트는 실행과 검증의 작업면으로 깊어진다 · 릴리스 50건</strong>
+    <span>최근 AI·기술 동향 학습 큐레이션 50을 다시 묶어, 이번 변화의 핵심이 새 도구 나열보다 에이전트가 실행, 파일 호환, 검증 루프까지 포함한 실제 작업면 깊숙이 들어오고 있다는 데 있음을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-11-ai-expands-into-tool-operating-systems-release-40" class="internal">
     <strong>2026-07-11 · AI는 도구 운영체계로 확장된다 · 릴리스 40건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 40을 다시 묶어, 이번 변화의 핵심이 새 모델 감탄보다 AI가 브라우저, 문서, 로컬 앱, 지식베이스 같은 실제 작업 표면에 직접 붙는 도구 운영체계로 확장되고 있다는 데 있음을 읽은 글입니다.</span>

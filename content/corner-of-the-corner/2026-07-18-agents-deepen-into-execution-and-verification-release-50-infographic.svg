@@ -1,0 +1,94 @@
+<svg width="1152" height="2048" viewBox="0 0 1152 2048" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="60" x2="980" y2="1940" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#091426"/>
+      <stop offset="0.5" stop-color="#0B1F3E"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="196" y1="0" x2="980" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48E5FF"/>
+      <stop offset="1" stop-color="#5F82FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title { font: 700 68px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; fill: #F5FAFF; }
+      .subtitle { font: 500 28px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; fill: #A8C2E8; }
+      .kicker { font: 700 22px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; letter-spacing: 0.18em; fill: #63E8FF; }
+      .panelTitle { font: 700 34px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; fill: #F1F7FF; }
+      .body { font: 500 24px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; fill: #C8D8F1; }
+      .big { font: 700 42px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; fill: #F6FBFF; }
+      .small { font: 600 22px -apple-system,BlinkMacSystemFont,'Pretendard','Apple SD Gothic Neo','Noto Sans KR',sans-serif; fill: #90A9CC; }
+    </style>
+  </defs>
+
+  <rect width="1152" height="2048" fill="url(#bg)"/>
+  <circle cx="915" cy="245" r="210" fill="#144B8A" fill-opacity="0.24"/>
+  <circle cx="236" cy="1740" r="250" fill="#0BC7E8" fill-opacity="0.14"/>
+  <circle cx="910" cy="1748" r="150" fill="#6F8DFF" fill-opacity="0.18"/>
+  <path d="M120 162C250 88 445 72 639 102C803 127 943 194 1038 287" stroke="url(#line)" stroke-width="3" stroke-opacity="0.45"/>
+  <path d="M166 1894C314 1836 470 1817 648 1835C790 1849 908 1891 1016 1960" stroke="url(#line)" stroke-width="3" stroke-opacity="0.32"/>
+
+  <rect x="84" y="80" width="984" height="360" rx="36" fill="#0F1B31" fill-opacity="0.88" stroke="#52E4FF" stroke-opacity="0.28"/>
+  <text x="132" y="140" class="kicker">CORNER OF THE CORNER · RELEASE 50</text>
+  <text x="132" y="232" class="title">에이전트는 실행과 검증의</text>
+  <text x="132" y="320" class="title">작업면으로 깊어진다</text>
+  <text x="132" y="386" class="subtitle">설치 키트, 루프 엔지니어링, Orca, Hermes, OfficeCLI, GPT-Live, 로컬 AI까지</text>
+
+  <g filter="url(#glow)">
+    <rect x="840" y="128" width="154" height="154" rx="24" fill="#0D3158" fill-opacity="0.72" stroke="#64E9FF" stroke-opacity="0.55"/>
+    <path d="M884 171H948M884 206H930M884 241H964" stroke="#7BEFFF" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="958" cy="206" r="20" stroke="#7BEFFF" stroke-width="6"/>
+  </g>
+
+  <rect x="84" y="494" width="470" height="258" rx="30" fill="#101E35" fill-opacity="0.92" stroke="#6CEBFF" stroke-opacity="0.22"/>
+  <text x="124" y="558" class="panelTitle">핵심 변화 1</text>
+  <text x="124" y="616" class="big">모델 경쟁 → 루프 경쟁</text>
+  <text x="124" y="676" class="body">루프 엔지니어링, 하네스,</text>
+  <text x="124" y="712" class="body">멀티 에이전트, worktree 운영처럼</text>
+  <text x="124" y="748" class="body">작업 분해와 검증 구조가 본체가 된다.</text>
+
+  <rect x="598" y="494" width="470" height="258" rx="30" fill="#101E35" fill-opacity="0.92" stroke="#6C92FF" stroke-opacity="0.24"/>
+  <text x="638" y="558" class="panelTitle">핵심 변화 2</text>
+  <text x="638" y="616" class="big">채팅창 → 실행형 인터페이스</text>
+  <text x="638" y="676" class="body">MCP, 브라우저, 오디오, 영상,</text>
+  <text x="638" y="712" class="body">GPT-Live가 텍스트 밖의 화면과</text>
+  <text x="638" y="748" class="body">시간 흐름까지 AI의 작업면으로 만든다.</text>
+
+  <rect x="84" y="794" width="470" height="258" rx="30" fill="#101E35" fill-opacity="0.92" stroke="#6CEBFF" stroke-opacity="0.22"/>
+  <text x="124" y="858" class="panelTitle">핵심 변화 3</text>
+  <text x="124" y="916" class="big">문서 자동화의 승부처는</text>
+  <text x="124" y="964" class="big">호환성과 최종 검토</text>
+  <text x="124" y="1012" class="body">OfficeCLI, kordoc, claw-hwp는</text>
+  <text x="124" y="1048" class="body">예쁜 초안보다 실제 파일이 열리고</text>
+  <text x="124" y="1084" class="body">사람이 끝에서 확인할 수 있어야 강하다.</text>
+
+  <rect x="598" y="794" width="470" height="258" rx="30" fill="#101E35" fill-opacity="0.92" stroke="#6C92FF" stroke-opacity="0.24"/>
+  <text x="638" y="858" class="panelTitle">핵심 변화 4</text>
+  <text x="638" y="916" class="big">로컬 AI와 오픈소스는</text>
+  <text x="638" y="964" class="big">통제권의 선택지다</text>
+  <text x="638" y="1012" class="body">Upscayl, Headscale, whichllm은</text>
+  <text x="638" y="1048" class="body">비용보다 직접 실험, 재현, 구조 이해의</text>
+  <text x="638" y="1084" class="body">여지를 넓혀 주는 흐름으로 읽힌다.</text>
+
+  <rect x="84" y="1112" width="984" height="384" rx="34" fill="#0E1930" fill-opacity="0.92" stroke="#53E4FF" stroke-opacity="0.22"/>
+  <text x="126" y="1180" class="panelTitle">이번 50선에서 반복된 질문</text>
+  <text x="126" y="1260" class="body">• 작업을 누가 어떻게 분해하는가</text>
+  <text x="126" y="1314" class="body">• 실행 결과를 어디서 검증하는가</text>
+  <text x="126" y="1368" class="body">• 실제 파일과 앱 표면을 끝까지 다룰 수 있는가</text>
+  <text x="126" y="1422" class="body">• 사람이 마지막 판단을 어디서 남기는가</text>
+  <text x="126" y="1476" class="body">• 다음 작업에서 다시 쓸 구조와 기록이 남는가</text>
+
+  <rect x="84" y="1546" width="984" height="286" rx="34" fill="#0F2442" fill-opacity="0.9" stroke="#74EDFF" stroke-opacity="0.28"/>
+  <text x="126" y="1616" class="panelTitle">한 문장 요약</text>
+  <text x="126" y="1706" class="big">이제 차이는 더 센 모델을 먼저 쓰는가보다</text>
+  <text x="126" y="1766" class="big">실제 작업을 어디서 실행하고, 어디서 검증하며,</text>
+  <text x="126" y="1826" class="big">무엇을 재사용 가능한 구조로 남기느냐에서 난다.</text>
+
+  <text x="84" y="1968" class="small">2026-07-18 · GoodlookingProKim · Corner of the Corner</text>
+</svg>
