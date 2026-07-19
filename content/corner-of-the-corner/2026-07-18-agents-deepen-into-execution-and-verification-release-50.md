@@ -9,7 +9,7 @@ tags:
   - mcp
   - corner-of-the-corner
 created: "2026-07-18"
-modified: "2026-07-18"
+modified: "2026-07-19"
 publish: true
 cssclasses:
   - quick-note
@@ -210,14 +210,14 @@ Obsidian, Screenpipe, NotebookLM + Tavily 자료는 예쁘게 쌓아두는 노�
 | 에이전트 운영·개발 워크플로우 | Orca IDE 소개 및 주요 특징 | 무조건 쓰세요. 다른 터미널 툴을 압도하는 현존 최고의 IDE Orca의 특징은? | [원본](https://www.youtube.com/watch?v=T9mypKihAeY) | [공개 요약](https://lilys.ai/digest/10575880/12375521?s=1&noteVersionId=8950895) |
 | 에이전트 운영·개발 워크플로우 | 헤르메스 에이전트 현업 활용을 위한 프로젝트 세팅 전략 | 헤르메스 에이전트를 실전에서 활용하는 법 - 실제로 일하는 헤르메스 | [원본](https://www.youtube.com/watch?v=CQy4wKuddtI) | [공개 요약](https://lilys.ai/digest/10575855/12375496?s=1&noteVersionId=8950870) |
 | 에이전트 운영·개발 워크플로우 | AI 에이전트 팀이 사람 없이 웹사이트를 제작하다 | 자고 일어나 보니 Fable 5와 Sol이 웹사이트를 만들어 놓았습니다 — 멀티 에이전트 × 에이전트 루프 | [원본](https://www.youtube.com/watch?v=nu91mfvo6cI) | [공개 요약](https://lilys.ai/digest/10575824/12375475?s=1&noteVersionId=8950849) |
-| 오픈소스·로컬 개발환경 | Upscayl 이미지 업스케일링 성능 비교 | upscayl/COMPARISONS.MD at main · upscayl/upscayl · GitHub | [원본](https://github.com/upscayl/COMPARISONS.MD) | [공개 요약](https://lilys.ai/digest/10575230/12374625?s=1&noteVersionId=8949983) |
+| 오픈소스·로컬 개발환경 | Upscayl 이미지 업스케일링 성능 비교 | upscayl/COMPARISONS.MD at main · upscayl/upscayl · GitHub | [원본](https://github.com/upscayl/upscayl/blob/main/COMPARISONS.MD) | [공개 요약](https://lilys.ai/digest/10575230/12374625?s=1&noteVersionId=8949983) |
 | 브라우저·MCP·멀티미디어 | 코딩 없이 앱 개발: 구글 스티치와 안티그래비티 활용 | 코딩 몰라도 훌륭한 앱이 완성됩니다｜구글 Stitch × Antigravity MCP로 앱 만들기 | [원본](https://www.youtube.com/watch?v=WVDeU-prWXo) | [공개 요약](https://lilys.ai/digest/10572777/12371196?s=1&noteVersionId=8946363) |
 | 브라우저·MCP·멀티미디어 | AI 기술 발전과 사용자 경험의 변화 | 챗GPT 보이스를 이용한 놀라운 경험들 | [원본](https://www.youtube.com/watch?v=jNvVPids344) | [공개 요약](https://lilys.ai/digest/10571063/12369178?s=1&noteVersionId=8944258) |
 | 에이전트 운영·개발 워크플로우 | teach 디렉토리 개요 | Mattpocock/skills: Teach Skill를 통해 학습 경험 강화 | [원본](https://github.com/Mattpocock/skills) | [공개 요약](https://lilys.ai/digest/10566143/12362736?s=1&noteVersionId=8937564) |
 | 에이전트 운영·개발 워크플로우 | 실제 엔지니어를 위한 에이전트 스킬 소개 | Matt Pocock: Agent Skills | [원본](https://www.aihero.dev/s/skills-newsletter) | [공개 요약](https://lilys.ai/digest/10566072/12362640?s=1&noteVersionId=8937466) |
 | 문서·오피스·교육 자동화 | OfficeCLI: AI 에이전트를 위한 최초의 오픈소스 오피스 스위트 | OfficeCLI: 오피스 도구 편집 및 자동화 | [원본](https://github.com/iOfficeAI/OfficeCLI) | [공개 요약](https://lilys.ai/digest/10561014/12355959?s=1&noteVersionId=8930565) |
 | 에이전트 운영·개발 워크플로우 | 우로보로스 Agent OS의 등장과 진화: 프롬프트 엔지니어링을 넘어선 AI 에이전트 시스템 | Agent OS로 AI 에이전트 활용이 달라진다: 우로보로스의 자동화·메모리 해법 | [원본](https://www.youtube.com/watch?v=7ews9Ri75Ss) | [공개 요약](https://lilys.ai/digest/10558601/12352636?s=1&noteVersionId=8927071) |
-| 지식관리·리서치 | screenpipe/docs/mintlify/docs-mintlify-mig-tmp/obsidian.mdx at fef81a4516eac1170 | screenpipe/docs/mintlify/docs-mintlify-mig-tmp/obsidian.mdx at fef81a4516eac11705851c958f2915c483284 | [원본](https://github.com/screenpipe/docs) | [공개 요약 · 레거시](https://lilys.ai/digest/10556591?s=1) |
+| 지식관리·리서치 | screenpipe/docs/mintlify/docs-mintlify-mig-tmp/obsidian.mdx at fef81a4516eac1170 | screenpipe/docs/mintlify/docs-mintlify-mig-tmp/obsidian.mdx at fef81a4516eac11705851c958f2915c483284 | [원본](https://github.com/screenpipe/screenpipe/blob/fef81a4516eac11705851c958f2915c483284082/docs/mintlify/docs-mintlify-mig-tmp/obsidian.mdx) | [공개 요약 · 레거시](https://lilys.ai/digest/10556591?s=1) |
 | 오픈소스·로컬 개발환경 | Headscale: 오픈소스 Tailscale 제어 서버 구현체 | Headscale: Talescale의 오픈소스 대안 | [원본](https://github.com/juanfont/headscale) | [공개 요약](https://lilys.ai/digest/10556043/12349722?s=1&noteVersionId=8923981) |
 | 에이전트 운영·개발 워크플로우 | ADE 오르카 소개 및 핵심 기능 설명 | 요즘 핫한 ADE 오르카 소개 | [원본](https://www.youtube.com/watch?v=0ELc1pcfcQk) | [공개 요약](https://lilys.ai/digest/10555818/12349371?s=1&noteVersionId=8923604) |
 | 에이전트 운영·개발 워크플로우 | Hermes Agent 데스크톱 앱과 VPS 연동의 필요성 | Hermes Agent, 데스크톱 앱에 이렇게 연결하면 완전히 달라집니다! | [원본](https://www.youtube.com/watch?v=Lkk2ubF1AZ8) | [공개 요약](https://lilys.ai/digest/10544111/12334134?s=1&noteVersionId=8907675) |
@@ -225,13 +225,13 @@ Obsidian, Screenpipe, NotebookLM + Tavily 자료는 예쁘게 쌓아두는 노�
 | 에이전트 운영·개발 워크플로우 | StyleGallery는 디자인 패턴을 모아둔 보물창고야 | StyleGallery: 재사용 가능한 인터페이스 지식을 관리하는 갤러리 | [원본](https://github.com/changeroa/StyleGallery/blob/main/layout/index.md) | [공개 요약](https://lilys.ai/digest/10540263/12328736?s=1&noteVersionId=8902073) |
 | 에이전트 운영·개발 워크플로우 | ir-search: 정부 지원사업 전수조사 Claude Code 스킬의 개요 | ir-search Skill: 모든 공고를 전수 검토 후 정보 제공 | [원본](https://github.com/djfksjd/ir-search) | [공개 요약](https://lilys.ai/digest/10540137/12328464?s=1&noteVersionId=8901798) |
 | 문서·오피스·교육 자동화 | 오르카(Orca) 소개 | Orca 설명서 | PDF 업로드 | [공개 요약](https://lilys.ai/digest/10534731/12321070?s=1&noteVersionId=8894113) |
-| 에이전트 운영·개발 워크플로우 | claude-lazycodex-skill 개요 | Claude에서 사용하는 Lazy Codex Skill | [원본](https://claude.com/claude-code) | [공개 요약](https://lilys.ai/digest/10534722/12321060?s=1&noteVersionId=8894100) |
+| 에이전트 운영·개발 워크플로우 | claude-lazycodex-skill 개요 | Claude에서 사용하는 Lazy Codex Skill | [원본](https://github.com/passeth/claude-lazycodex-skill) | [공개 요약](https://lilys.ai/digest/10534722/12321060?s=1&noteVersionId=8894100) |
 | 에이전트 운영·개발 워크플로우 | SkillOpt 개요 및 기존 방식과의 차이점 | SkillOpt로 에이전트 스킬을 학습시키기: 자막 추출 오타 점검 예시 | [원본](https://github.com/microsoft/SkillOpt) | [공개 요약](https://lilys.ai/digest/10532140/12317737?s=1&noteVersionId=8890638) |
 | 브라우저·MCP·멀티미디어 | Buzz 소개: 오프라인 오디오 전사 및 번역 도구 | Buzz: OpenAI의 Wisper 기반 오디오 및 비디오 전사와 번역 도구 | [원본](https://github.com/chidiwilliams/buzz) | [공개 요약](https://lilys.ai/digest/10530132/12315022?s=1&noteVersionId=8887802) |
-| 문서·오피스·교육 자동화 | Excel Copilot을 활용한 데이터 정리 및 반복 업무 자동화 시작 순서 | Excel Copilot 데이터 정리 프롬프트, 반복 업무 자동화 시작 순서 - 실속생활백서 | [원본](https://livecoupang.com/) | [공개 요약](https://lilys.ai/digest/10530119/12315005?s=1&noteVersionId=8887785) |
-| 에이전트 운영·개발 워크플로우 | Awesome LLM 앱스 소개 | Awesome LLM App: 앱 템플릿 | [원본](http://www.theunwindai.com/) | [공개 요약](https://lilys.ai/digest/10528509/12312956?s=1&noteVersionId=8885627) |
+| 문서·오피스·교육 자동화 | Excel Copilot을 활용한 데이터 정리 및 반복 업무 자동화 시작 순서 | Excel Copilot 데이터 정리 프롬프트, 반복 업무 자동화 시작 순서 - 실속생활백서 | [원본](https://livecoupang.com/2026/06/10/excel-copilot-data-cleanup-prompt-office-automation-2026/) | [공개 요약](https://lilys.ai/digest/10530119/12315005?s=1&noteVersionId=8887785) |
+| 에이전트 운영·개발 워크플로우 | Awesome LLM 앱스 소개 | Awesome LLM App: 앱 템플릿 | [원본](https://github.com/Shubhamsaboo/awesome-llm-apps) | [공개 요약](https://lilys.ai/digest/10528509/12312956?s=1&noteVersionId=8885627) |
 | 오픈소스·로컬 개발환경 | Upscayl 설치 전 확인 사항 | Upscayl: AI 기반 이미지 업스케일러 | [원본](https://flathub.org/apps/org.upscayl.Upscayl) | [공개 요약](https://lilys.ai/digest/10528453/12312895?s=1&noteVersionId=8885561) |
-| 에이전트 운영·개발 워크플로우 | Orca ADE 소개 및 기존 IDE와의 차이점 | Orca ADE \| 병렬 AI 코딩 에이전트와 git worktree 오케스트레이션 \| CDB | [원본](https://neuralwatt.com/) | [공개 요약](https://lilys.ai/digest/10528343/12312752?s=1&noteVersionId=8885403) |
+| 에이전트 운영·개발 워크플로우 | Orca ADE 소개 및 기존 IDE와의 차이점 | Orca ADE \| 병렬 AI 코딩 에이전트와 git worktree 오케스트레이션 \| CDB | [원본](https://min-inter.co.kr/wiki/orca-ade-parallel-agents/) | [공개 요약](https://lilys.ai/digest/10528343/12312752?s=1&noteVersionId=8885403) |
 | 오픈소스·로컬 개발환경 | Headscale 소개: Tailscale 제어 서버의 오픈소스 자체 호스팅 구현체 | GitHub - juanfont/headscale: An open source, self-hosted implementation of the Tailscale control ser | [원본](https://github.com/juanfont/headscale) | [공개 요약](https://lilys.ai/digest/10527183/12311322?s=1&noteVersionId=8883832) |
 | 오픈소스·로컬 개발환경 | whichllm 개요 | GitHub - Andyyyy64/whichllm: Find the local LLM that actually runs and performs best on your hardwar | [원본](https://github.com/Andyyyy64/whichllm) | [공개 요약](https://lilys.ai/digest/10526442/12310286?s=1&noteVersionId=8882728) |
 | 오픈소스·로컬 개발환경 | 아두이노와 데이터베이스의 필요성 및 SQL 개념 이해 | 아두이노 우노 Q 하나로 데이터베이스까지? MariaDB 실습 정리 | [원본](https://www.youtube.com/watch?v=i662sIi0dMQ) | [공개 요약](https://lilys.ai/digest/10526393/12310211?s=1&noteVersionId=8882649) |
@@ -241,7 +241,7 @@ Obsidian, Screenpipe, NotebookLM + Tavily 자료는 예쁘게 쌓아두는 노�
 | 문서·오피스·교육 자동화 | kordoc 소개 및 주요 기능 | kordoc: HWP/HWPX/PDF 파일을 마크다운으로 변환, 비교, 분석, 생성할 수 있는 오프소스 라이브러리 | [원본](https://github.com/chrisryugj/kordoc) | [공개 요약](https://lilys.ai/digest/10504884/12281506?s=1&noteVersionId=8852821) |
 | 에이전트 운영·개발 워크플로우 | ir-search: 한국 정부 지원사업 전수조사 Claude Code 스킬 소개 | 한국 정부 지원사업을 효과적으로 찾게 도와주는 Claude Code Skill: ir-search | [원본](https://github.com/djfksjd/ir-search/blob/main/README.en.md) | [공개 요약](https://lilys.ai/digest/10504735/12281292?s=1&noteVersionId=8852598) |
 | 문서·오피스·교육 자동화 | Supertonic 실무 사용 가이드 소개 | Supertonic 실무 사용 가이드 | 텍스트 노트 | [공개 요약](https://lilys.ai/digest/10503607/12279816?s=1&noteVersionId=8851066) |
-| 에이전트 운영·개발 워크플로우 | 디자인 엔지니어를 위한 스킬 소개 | 디자인 엔지니어를 위한 스킬 모음 | [원본](https://animations.dev/) | [공개 요약](https://lilys.ai/digest/10499212/12272991?s=1&noteVersionId=8843661) |
+| 에이전트 운영·개발 워크플로우 | 디자인 엔지니어를 위한 스킬 소개 | 디자인 엔지니어를 위한 스킬 모음 | [원본](https://emilkowal.ski/skill) | [공개 요약](https://lilys.ai/digest/10499212/12272991?s=1&noteVersionId=8843661) |
 | 브라우저·MCP·멀티미디어 | video-use 소개 | Claude Code Video Use | [원본](https://github.com/browser-use/video-use) | [공개 요약](https://lilys.ai/digest/10491908/12261913?s=1&noteVersionId=8832316) |
 | 문서·오피스·교육 자동화 | 5분 만에 로그인·회원가입 기능을 구현하는 바이브코딩 가이드 | Better Auth: 5분 만에 로그인/회원가입 기능 구현(네이버, 카카오 등 한국형 소셜 로그인 기본 지원) | 텍스트 노트 | [공개 요약](https://lilys.ai/digest/10475753/12240064?s=1&noteVersionId=8809661) |
 | 오픈소스·로컬 개발환경 | 엘릭서(Elixir) 소개 및 웹 개발의 모순 | liftIO 2022 : 웹 개발의 모순과 Elixir가 특효약인 이유 - 한국축산데이터 CTO Max(이재철) - YouTube | [원본](https://www.youtube.com/watch?v=lAaD-6OQSHE) | [공개 요약](https://lilys.ai/digest/10470996/12234803?s=1&noteVersionId=8803645) |
