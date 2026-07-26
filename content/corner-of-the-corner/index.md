@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-26-agents-descend-into-the-operating-layer-release-50" class="internal">
+    <strong>2026-07-26 · 에이전트는 작업 위가 아니라 운영 계층으로 내려온다 · 릴리스 50건</strong>
+    <span>LilysAI 최근 50개 노트를 다시 묶어, 이번 변화의 핵심이 새 모델 감탄보다 에이전트를 실제 작업 환경에 배치하는 하네스, 연결 계층, 로컬 도구, 검증 구조가 더 본체가 되고 있다는 데 있음을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-18-agents-deepen-into-execution-and-verification-release-50" class="internal">
     <strong>2026-07-18 · 에이전트는 실행과 검증의 작업면으로 깊어진다 · 릴리스 50건</strong>
     <span>최근 AI·기술 동향 학습 큐레이션 50을 다시 묶어, 이번 변화의 핵심이 새 도구 나열보다 에이전트가 실행, 파일 호환, 검증 루프까지 포함한 실제 작업면 깊숙이 들어오고 있다는 데 있음을 읽은 글입니다.</span>
