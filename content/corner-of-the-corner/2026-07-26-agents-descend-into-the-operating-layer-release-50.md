@@ -216,55 +216,55 @@ Pireel, 캐릭터 시트, GPT Image 2 프롬프트 라이브러리, Thinking Orb
 
 ## 복사용 링크 표
 
-| 번호 | 주제 | 원본 | 공개 요약 |
-|---:|---|---|---|
-| 1 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=vsWPkl8hzq4) | [공개 링크](https://lilys.ai/digest/10696575/12536714?s=1&noteVersionId=9118183) |
-| 2 | 에이전트·하네스·멀티에이전트 운영 | [Osaurus](https://github.com/osaurus-ai/osaurus) | [공개 링크](https://lilys.ai/digest/10696498/12536623?s=1&noteVersionId=9118091) |
-| 3 | AI 개발·앱 빌드 워크플로 | [@subhanhq/amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) | [공개 링크](https://lilys.ai/digest/10696435/12536541?s=1&noteVersionId=9118008) |
-| 4 | 문서·교육·사회·공공 읽기 | 없음(PDF 업로드) | [공개 링크](https://lilys.ai/digest/10696324/12536409?s=1&noteVersionId=9117875) |
-| 5 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=6IlJ0BpKCLY) | [공개 링크](https://lilys.ai/digest/10696301/12536369?s=1&noteVersionId=9117835) |
-| 6 | AI 개발·앱 빌드 워크플로 | [YouTube iframe source](https://www.youtube.com/watch?v=bDwr_7n1AZg) | [공개 링크](https://lilys.ai/digest/10696295/12536360?s=1&noteVersionId=9117826) |
-| 7 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=fPohzjDpf4Q) | [공개 링크](https://lilys.ai/digest/10696286/12536350?s=1&noteVersionId=9117816) |
-| 8 | AI 개발·앱 빌드 워크플로 | [YouTube iframe source](https://www.youtube.com/watch?v=yeeEmnAnAVs) | [공개 링크](https://lilys.ai/digest/10696249/12536315?s=1&noteVersionId=9117781) |
-| 9 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=ArIlSal-jFI) | [공개 링크](https://lilys.ai/digest/10696239/12536304?s=1&noteVersionId=9117769) |
-| 10 | AI 개발·앱 빌드 워크플로 | [YouTube iframe source](https://www.youtube.com/watch?v=ZkWozXbC6VM) | [공개 링크](https://lilys.ai/digest/10696146/12536102?s=1&noteVersionId=9117557) |
-| 11 | MCP·데이터·도구 연결 | [Stop being the messenger between your AI tools](https://khala.to/) | [공개 링크](https://lilys.ai/digest/10693611/12532330?s=1&noteVersionId=9113676) |
-| 12 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=WEu29vteoO4) | [공개 링크](https://lilys.ai/digest/10693402/12532015?s=1&noteVersionId=9113358) |
-| 13 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=kpfEGF_-FWA) | [공개 링크](https://lilys.ai/digest/10693351/12531947?s=1&noteVersionId=9113284) |
-| 14 | 에이전트·하네스·멀티에이전트 운영 | [09. 제2권. LLM 에이전트의 작동 원리](https://wikidocs.net/346794) | [공개 링크](https://lilys.ai/digest/10692313/12530491?s=1&noteVersionId=9111791) |
-| 15 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=cw5tAzx-scM) | [공개 링크](https://lilys.ai/digest/10692270/12530423?s=1&noteVersionId=9111720) |
-| 16 | 로컬·macOS·개발환경 | [PDF 정리함](https://github.com/obundh/local-pdf-organizer) | [공개 링크](https://lilys.ai/digest/10685275/12520660?s=1&noteVersionId=9101653) |
-| 17 | MCP·데이터·도구 연결 | [OS Ecosystem](https://github.com/CSY8515/OS-Ecosystem) | [공개 링크](https://lilys.ai/digest/10685180/12520507?s=1&noteVersionId=9101497) |
-| 18 | 문서·교육·사회·공공 읽기 | 없음(PDF 업로드) | [공개 링크](https://lilys.ai/digest/10685070/12520360?s=1&noteVersionId=9101345) |
-| 19 | 로컬·macOS·개발환경 | [oh-my-opensnap 📸](https://github.com/Canine89/oh-my-opensnap) | [공개 링크](https://lilys.ai/digest/10685044/12520304?s=1&noteVersionId=9101287) |
-| 20 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=FBsqQfkrsSY) | [공개 링크](https://lilys.ai/digest/10684465/12519477?s=1&noteVersionId=9100436) |
-| 21 | 에이전트·하네스·멀티에이전트 운영 | [GPT Pro Architect Loop](https://github.com/youngchangjo/gpt-pro-architect-loop) | [공개 링크](https://lilys.ai/digest/10681719/12515754?s=1&noteVersionId=9096591) |
-| 22 | 로컬·macOS·개발환경 | [Pireel Studio](https://github.com/pireel/pireel) | [공개 링크](https://lilys.ai/digest/10679117/12512689?s=1&noteVersionId=9093393) |
-| 23 | AI 개발·앱 빌드 워크플로 | 미확정(멀티 자료) | [공개 링크](https://lilys.ai/digest/10678734/12512618?s=1&noteVersionId=9093319) |
-| 24 | 콘텐츠·이미지·영상 제작 | [YouTube iframe source](https://www.youtube.com/watch?v=7300P3d1ZF4) | [공개 링크](https://lilys.ai/digest/10678627/12511987?s=1&noteVersionId=9092663) |
-| 25 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=zK8neqREUHc) | [공개 링크](https://lilys.ai/digest/10678582/12511947?s=1&noteVersionId=9092622) |
-| 26 | MCP·데이터·도구 연결 | [Korean Law MCP](https://github.com/chrisryugj/korean-law-mcp) | [공개 링크](https://lilys.ai/digest/10677991/12511084?s=1&noteVersionId=9091722) |
-| 27 | 로컬·macOS·개발환경 | [Heoooooon/lazy-starter-kit](https://github.com/Heoooooon/lazy-starter-kit) | [공개 링크](https://lilys.ai/digest/10677875/12510900?s=1&noteVersionId=9091534) |
-| 28 | AI 개발·앱 빌드 워크플로 | [YouTube iframe source](https://www.youtube.com/watch?v=qzF45r98pR4) | [공개 링크](https://lilys.ai/digest/10672114/12502855?s=1&noteVersionId=9083285) |
-| 29 | 에이전트·하네스·멀티에이전트 운영 | [AI that gets your everyday tasks done.](https://openworker.com/) | [공개 링크](https://lilys.ai/digest/10671802/12502428?s=1&noteVersionId=9082845) |
-| 30 | 문서·교육·사회·공공 읽기 | [ShouqiaoW/erdos](https://github.com/ShouqiaoW/erdos) | [공개 링크](https://lilys.ai/digest/10666345/12494928?s=1&noteVersionId=9074970) |
-| 31 | 에이전트·하네스·멀티에이전트 운영 | [t8y2/dbx](https://github.com/t8y2/dbx) | [공개 링크](https://lilys.ai/digest/10664699/12492646?s=1&noteVersionId=9072585) |
-| 32 | MCP·데이터·도구 연결 | [Korea Public Data Catalog MCP](https://github.com/obundh/korea-public-data-catalog-mcp) | [공개 링크](https://lilys.ai/digest/10659886/12486357?s=1&noteVersionId=9066034) |
-| 33 | 에이전트·하네스·멀티에이전트 운영 | [Buzz 🐝](https://github.com/block/buzz) | [공개 링크](https://lilys.ai/digest/10659823/12486281?s=1&noteVersionId=9065955) |
-| 34 | 문서·교육·사회·공공 읽기 | [모래와 단백질의 경쟁](https://www.joongang.co.kr/article/25446623) | [공개 링크](https://lilys.ai/digest/10659601/12485982?s=1&noteVersionId=9065639) |
-| 35 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=ZCK-zL3c2vA) | [공개 링크](https://lilys.ai/digest/10658528/12484536?s=1&noteVersionId=9064126) |
-| 36 | 에이전트·하네스·멀티에이전트 운영 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | [공개 링크](https://lilys.ai/digest/10658392/12484370?s=1&noteVersionId=9063947) |
-| 37 | 에이전트·하네스·멀티에이전트 운영 | [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | [공개 링크](https://lilys.ai/digest/10658312/12484245?s=1&noteVersionId=9063819) |
-| 38 | 문서·교육·사회·공공 읽기 | [문서 신구대비실](https://github.com/obundh/korean-munseo-diff) | [공개 링크](https://lilys.ai/digest/10656847/12482451?s=1&noteVersionId=9061965) |
-| 39 | 에이전트·하네스·멀티에이전트 운영 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | [공개 링크](https://lilys.ai/digest/10656836/12482437?s=1&noteVersionId=9061949) |
-| 40 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=hcDz6yGT59M) | [공개 링크](https://lilys.ai/digest/10655146/12480195?s=1&noteVersionId=9059509) |
-| 41 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=W-24dV5SlVE) | [공개 링크](https://lilys.ai/digest/10654659/12479583?s=1&noteVersionId=9058769) |
-| 42 | 에이전트·하네스·멀티에이전트 운영 | [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) | [공개 링크](https://lilys.ai/digest/10653224/12477677?s=1&noteVersionId=9056559) |
-| 43 | 콘텐츠·이미지·영상 제작 | [🚀 Awesome GPT Image 2 Prompts](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | [공개 링크](https://lilys.ai/digest/10653163/12477597?s=1&noteVersionId=9056476) |
-| 44 | 에이전트·하네스·멀티에이전트 운영 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | [공개 링크](https://lilys.ai/digest/10653111/12477506?s=1&noteVersionId=9056383) |
-| 45 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=HWjcA51vHH8) | [공개 링크](https://lilys.ai/digest/10650479/12473782?s=1&noteVersionId=9052389) |
-| 46 | 로컬·macOS·개발환경 | [World Monitor](https://github.com/koala73/worldmonitor) | [공개 링크](https://lilys.ai/digest/10650294/12473499?s=1&noteVersionId=9052098) |
-| 47 | 문서·교육·사회·공공 읽기 | [YouTube iframe source](https://www.youtube.com/watch?v=WkBPX-oDMnA) | [공개 링크](https://lilys.ai/digest/10649907/12472907?s=1&noteVersionId=9051489) |
-| 48 | 문서·교육·사회·공공 읽기 | [YouTube iframe source](https://www.youtube.com/watch?v=Oye4ia5yXY4) | [공개 링크](https://lilys.ai/digest/10649153/12471879?s=1&noteVersionId=9050438) |
-| 49 | 에이전트·하네스·멀티에이전트 운영 | [YouTube iframe source](https://www.youtube.com/watch?v=7XW_O_lS6C4) | [공개 링크](https://lilys.ai/digest/10649105/12471797?s=1&noteVersionId=9050354) |
-| 50 | 콘텐츠·이미지·영상 제작 | [YouTube iframe source](https://www.youtube.com/watch?v=hdEweGeZpuE) | [공개 링크](https://lilys.ai/digest/10649099/12471784?s=1&noteVersionId=9050341) |
+| 번호 | 주제 | 제목 | 원본 | 공개 요약 |
+|---:|---|---|---|---|
+| 1 | 에이전트·하네스·멀티에이전트 운영 | 이제 클로드코드 개발은 터미널 말고 마블로 보드와 함께 작업하세요. 병렬의 정석입니다. | [YouTube iframe source](https://www.youtube.com/watch?v=vsWPkl8hzq4) | [공개 링크](https://lilys.ai/digest/10696575/12536714?s=1&noteVersionId=9118183) |
+| 2 | 에이전트·하네스·멀티에이전트 운영 | Osaurus: AI를 개인화하는 macOS용 AI 하네스 | [Osaurus](https://github.com/osaurus-ai/osaurus) | [공개 링크](https://lilys.ai/digest/10696498/12536623?s=1&noteVersionId=9118091) |
+| 3 | AI 개발·앱 빌드 워크플로 | Amicro: React 기반의 다양한 애니메이션 라이브러리 | [@subhanhq/amicro](https://github.com/Subhan-code/Amicro--Micro-transitions-) | [공개 링크](https://lilys.ai/digest/10696435/12536541?s=1&noteVersionId=9118008) |
+| 4 | 문서·교육·사회·공공 읽기 | academic-survival-manual-2026-07-24 | 없음(PDF 업로드) | [공개 링크](https://lilys.ai/digest/10696324/12536409?s=1&noteVersionId=9117875) |
+| 5 | 에이전트·하네스·멀티에이전트 운영 | Oracle APEX AI 에이전트 튜토리얼 #5 \| 에이전트 루프 이해하기 | [YouTube iframe source](https://www.youtube.com/watch?v=6IlJ0BpKCLY) | [공개 링크](https://lilys.ai/digest/10696301/12536369?s=1&noteVersionId=9117835) |
+| 6 | AI 개발·앱 빌드 워크플로 | 이 프레임워크는 크로스 플랫폼 앱의 미래가 될지도 몰라요 (Dioxus) | [YouTube iframe source](https://www.youtube.com/watch?v=bDwr_7n1AZg) | [공개 링크](https://lilys.ai/digest/10696295/12536360?s=1&noteVersionId=9117826) |
+| 7 | 에이전트·하네스·멀티에이전트 운영 | [제품 리뷰] Orca: 코딩 에이전트를 동시에 구동하고 관리할 수 있도록 설계된 에이전트 개발 환경(ADE) | [YouTube iframe source](https://www.youtube.com/watch?v=fPohzjDpf4Q) | [공개 링크](https://lilys.ai/digest/10696286/12536350?s=1&noteVersionId=9117816) |
+| 8 | AI 개발·앱 빌드 워크플로 | 웹에서의 Rust가 꽤 좋아 보이기 시작했어요. | [YouTube iframe source](https://www.youtube.com/watch?v=yeeEmnAnAVs) | [공개 링크](https://lilys.ai/digest/10696249/12536315?s=1&noteVersionId=9117781) |
+| 9 | 에이전트·하네스·멀티에이전트 운영 | 휴대폰으로 모든 코딩 에이전트 제어하기 (Orca) | [YouTube iframe source](https://www.youtube.com/watch?v=ArIlSal-jFI) | [공개 링크](https://lilys.ai/digest/10696239/12536304?s=1&noteVersionId=9117769) |
+| 10 | AI 개발·앱 빌드 워크플로 | 7월25일 줌미팅세미나(Spacetimedb_영자님, 그리고 미팅 참가자분들의 한주 이야기) | [YouTube iframe source](https://www.youtube.com/watch?v=ZkWozXbC6VM) | [공개 링크](https://lilys.ai/digest/10696146/12536102?s=1&noteVersionId=9117557) |
+| 11 | MCP·데이터·도구 연결 | Khala. The messenger between AI tools. | [Stop being the messenger between your AI tools](https://khala.to/) | [공개 링크](https://lilys.ai/digest/10693611/12532330?s=1&noteVersionId=9113676) |
+| 12 | 에이전트·하네스·멀티에이전트 운영 | Hermes 에이전트, 모델보다 중요한 업데이트가 나왔습니다! | [YouTube iframe source](https://www.youtube.com/watch?v=WEu29vteoO4) | [공개 링크](https://lilys.ai/digest/10693402/12532015?s=1&noteVersionId=9113358) |
+| 13 | 에이전트·하네스·멀티에이전트 운영 | [시즌 3] Orca 완전 초보 세팅 + 입문 가이드 | [YouTube iframe source](https://www.youtube.com/watch?v=kpfEGF_-FWA) | [공개 링크](https://lilys.ai/digest/10693351/12531947?s=1&noteVersionId=9113284) |
+| 14 | 에이전트·하네스·멀티에이전트 운영 | LLM 에이전트의 작동 원리 - 하네스 엔지니어링 백과사전 | [09. 제2권. LLM 에이전트의 작동 원리](https://wikidocs.net/346794) | [공개 링크](https://lilys.ai/digest/10692313/12530491?s=1&noteVersionId=9111791) |
+| 15 | 에이전트·하네스·멀티에이전트 운영 | Codex와 Mole만 있으면 유료 맥 청소 앱, 이제 안 사도 됩니다. 맥북을 갖고 계시다면 필수 수청. | [YouTube iframe source](https://www.youtube.com/watch?v=cw5tAzx-scM) | [공개 링크](https://lilys.ai/digest/10692270/12530423?s=1&noteVersionId=9111720) |
+| 16 | 로컬·macOS·개발환경 | 로컬 PDF 정리함 | [PDF 정리함](https://github.com/obundh/local-pdf-organizer) | [공개 링크](https://lilys.ai/digest/10685275/12520660?s=1&noteVersionId=9101653) |
+| 17 | MCP·데이터·도구 연결 | OS Ecosystem: 통합 운영 계층 | [OS Ecosystem](https://github.com/CSY8515/OS-Ecosystem) | [공개 링크](https://lilys.ai/digest/10685180/12520507?s=1&noteVersionId=9101497) |
+| 18 | 문서·교육·사회·공공 읽기 | academic-survival-manual | 없음(PDF 업로드) | [공개 링크](https://lilys.ai/digest/10685070/12520360?s=1&noteVersionId=9101345) |
+| 19 | 로컬·macOS·개발환경 | oh-my-opensnap: macOS 전용 화면 캡처 도구 | [oh-my-opensnap 📸](https://github.com/Canine89/oh-my-opensnap) | [공개 링크](https://lilys.ai/digest/10685044/12520304?s=1&noteVersionId=9101287) |
+| 20 | 에이전트·하네스·멀티에이전트 운영 | Use AI Agents in FlutterFlow: Claude Code & Codex Plugin Setup | [YouTube iframe source](https://www.youtube.com/watch?v=FBsqQfkrsSY) | [공개 링크](https://lilys.ai/digest/10684465/12519477?s=1&noteVersionId=9100436) |
+| 21 | 에이전트·하네스·멀티에이전트 운영 | GPT Pro Architect Loop: Codex(구현자)와 ChatGPT Pro(설계자)로 분리 개발 아키텍트 | [GPT Pro Architect Loop](https://github.com/youngchangjo/gpt-pro-architect-loop) | [공개 링크](https://lilys.ai/digest/10681719/12515754?s=1&noteVersionId=9096591) |
+| 22 | 로컬·macOS·개발환경 | Pireel: AI 영상 편집기 | [Pireel Studio](https://github.com/pireel/pireel) | [공개 링크](https://lilys.ai/digest/10679117/12512689?s=1&noteVersionId=9093393) |
+| 23 | AI 개발·앱 빌드 워크플로 | 챗GPT, 코덱스로 코딩지식 하나도 없이 메이플스토리 만들어버리기 | 미확정(멀티 자료) | [공개 링크](https://lilys.ai/digest/10678734/12512618?s=1&noteVersionId=9093319) |
+| 24 | 콘텐츠·이미지·영상 제작 | 캐릭터 시트 제작 방법. 마스터 프롬프트 제공. | [YouTube iframe source](https://www.youtube.com/watch?v=7300P3d1ZF4) | [공개 링크](https://lilys.ai/digest/10678627/12511987?s=1&noteVersionId=9092663) |
+| 25 | 에이전트·하네스·멀티에이전트 운영 | FlutterFlow's Native AI Agents: Build Apps with Claude Code & Codex | [YouTube iframe source](https://www.youtube.com/watch?v=zK8neqREUHc) | [공개 링크](https://lilys.ai/digest/10678582/12511947?s=1&noteVersionId=9092622) |
+| 26 | MCP·데이터·도구 연결 | Korean Law MCP | [Korean Law MCP](https://github.com/chrisryugj/korean-law-mcp) | [공개 링크](https://lilys.ai/digest/10677991/12511084?s=1&noteVersionId=9091722) |
+| 27 | 로컬·macOS·개발환경 | lazy-starter-kit: 새 컴퓨터를 개발환경으로 뚝딱 설정하는 키트 | [Heoooooon/lazy-starter-kit](https://github.com/Heoooooon/lazy-starter-kit) | [공개 링크](https://lilys.ai/digest/10677875/12510900?s=1&noteVersionId=9091534) |
+| 28 | AI 개발·앱 빌드 워크플로 | 바이브코딩 앱 그렇게 출시했다간 큰일납니다 \| 보안과 과태료 | [YouTube iframe source](https://www.youtube.com/watch?v=qzF45r98pR4) | [공개 링크](https://lilys.ai/digest/10672114/12502855?s=1&noteVersionId=9083285) |
+| 29 | 에이전트·하네스·멀티에이전트 운영 | OpenWorker — AI that gets your everyday tasks done | [AI that gets your everyday tasks done.](https://openworker.com/) | [공개 링크](https://lilys.ai/digest/10671802/12502428?s=1&noteVersionId=9082845) |
+| 30 | 문서·교육·사회·공공 읽기 | 수학 난제를 푸는 프로젝트 | [ShouqiaoW/erdos](https://github.com/ShouqiaoW/erdos) | [공개 링크](https://lilys.ai/digest/10666345/12494928?s=1&noteVersionId=9074970) |
+| 31 | 에이전트·하네스·멀티에이전트 운영 | DBX: 70개 이상의 DB를 지원하며 AI 에이전트 연동 기능이 있는 데이터베이스 관리 도구 | [t8y2/dbx](https://github.com/t8y2/dbx) | [공개 링크](https://lilys.ai/digest/10664699/12492646?s=1&noteVersionId=9072585) |
+| 32 | MCP·데이터·도구 연결 | Korea Public Data Catalog MCP: 서비스 아이디어 입력하면 공공데이터 포털 정보를 탐색하여 알려줌 | [Korea Public Data Catalog MCP](https://github.com/obundh/korea-public-data-catalog-mcp) | [공개 링크](https://lilys.ai/digest/10659886/12486357?s=1&noteVersionId=9066034) |
+| 33 | 에이전트·하네스·멀티에이전트 운영 | Buzz: 인간과 AI 에이전트가 동일한 공간에서 협업하는 워크스페이스 | [Buzz 🐝](https://github.com/block/buzz) | [공개 링크](https://lilys.ai/digest/10659823/12486281?s=1&noteVersionId=9065955) |
+| 34 | 문서·교육·사회·공공 읽기 | [중앙시평] 모래와 단백질의 경쟁 \| 중앙일보 | [모래와 단백질의 경쟁](https://www.joongang.co.kr/article/25446623) | [공개 링크](https://lilys.ai/digest/10659601/12485982?s=1&noteVersionId=9065639) |
+| 35 | 에이전트·하네스·멀티에이전트 운영 | 똑같은 프롬프트인데 비용이 1/3? Claude Code에 제2의 뇌 만들기 (Graphify + Obsidian) | [YouTube iframe source](https://www.youtube.com/watch?v=ZCK-zL3c2vA) | [공개 링크](https://lilys.ai/digest/10658528/12484536?s=1&noteVersionId=9064126) |
+| 36 | 에이전트·하네스·멀티에이전트 운영 | baoyu-skills: Claude Code 환경에서 AI 기반 콘텐츠 생성 및 유틸리티 스킬 모음 | [baoyu-skills](https://github.com/JimLiu/baoyu-skills) | [공개 링크](https://lilys.ai/digest/10658392/12484370?s=1&noteVersionId=9063947) |
+| 37 | 에이전트·하네스·멀티에이전트 운영 | Thinking Orbs: AI의 상태를 시각적으로 표현하는 6가지 애니메이션 로딩 인디케이터 | [thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | [공개 링크](https://lilys.ai/digest/10658312/12484245?s=1&noteVersionId=9063819) |
+| 38 | 문서·교육·사회·공공 읽기 | HWP 문서 신구대비표 만들 때 사용 | [문서 신구대비실](https://github.com/obundh/korean-munseo-diff) | [공개 링크](https://lilys.ai/digest/10656847/12482451?s=1&noteVersionId=9061965) |
+| 39 | 에이전트·하네스·멀티에이전트 운영 | Herdr: 터미널 에이전트 멀티플렉서 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | [공개 링크](https://lilys.ai/digest/10656836/12482437?s=1&noteVersionId=9061949) |
+| 40 | 에이전트·하네스·멀티에이전트 운영 | ORCA로 Claude, Codex AI 에이전트를 동시에 제어하는 방법 | [YouTube iframe source](https://www.youtube.com/watch?v=hcDz6yGT59M) | [공개 링크](https://lilys.ai/digest/10655146/12480195?s=1&noteVersionId=9059509) |
+| 41 | 에이전트·하네스·멀티에이전트 운영 | OpenAI 슈퍼앱. ChatGPT Work 상륙 | [YouTube iframe source](https://www.youtube.com/watch?v=W-24dV5SlVE) | [공개 링크](https://lilys.ai/digest/10654659/12479583?s=1&noteVersionId=9058769) |
+| 42 | 에이전트·하네스·멀티에이전트 운영 | EverMind-AI/Raven: 자기 개선에이전트 하네스 | [EverMind-AI/Raven](https://github.com/EverMind-AI/Raven) | [공개 링크](https://lilys.ai/digest/10653224/12477677?s=1&noteVersionId=9056559) |
+| 43 | 콘텐츠·이미지·영상 제작 | GPT Image 2 프롬프트 라이브러리 | [🚀 Awesome GPT Image 2 Prompts](https://github.com/YouMind-OpenLab/awesome-gpt-image-2) | [공개 링크](https://lilys.ai/digest/10653163/12477597?s=1&noteVersionId=9056476) |
+| 44 | 에이전트·하네스·멀티에이전트 운영 | AstrBot: 오픈소스 AI 에이전트 챗봇 플랫폼 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | [공개 링크](https://lilys.ai/digest/10653111/12477506?s=1&noteVersionId=9056383) |
+| 45 | 에이전트·하네스·멀티에이전트 운영 | Introduction to FlutterFlow Campus | [YouTube iframe source](https://www.youtube.com/watch?v=HWjcA51vHH8) | [공개 링크](https://lilys.ai/digest/10650479/12473782?s=1&noteVersionId=9052389) |
+| 46 | 로컬·macOS·개발환경 | World Monitor: AI 기반으로 뉴스, 지정학적 상황, 인프라를 실시간으로 통합 모니터링하여 전 세계 상황 인식을 제공하는 오픈소스 대시보드 | [World Monitor](https://github.com/koala73/worldmonitor) | [공개 링크](https://lilys.ai/digest/10650294/12473499?s=1&noteVersionId=9052098) |
+| 47 | 문서·교육·사회·공공 읽기 | Understanding is the new bottleneck — Geoffrey Litt, Notion | [YouTube iframe source](https://www.youtube.com/watch?v=WkBPX-oDMnA) | [공개 링크](https://lilys.ai/digest/10649907/12472907?s=1&noteVersionId=9051489) |
+| 48 | 문서·교육·사회·공공 읽기 | [시즌 3] Kimi K3의 등장과 뉴스를 이해하기 위한 인공지능 개념 | [YouTube iframe source](https://www.youtube.com/watch?v=Oye4ia5yXY4) | [공개 링크](https://lilys.ai/digest/10649153/12471879?s=1&noteVersionId=9050438) |
+| 49 | 에이전트·하네스·멀티에이전트 운영 | AI 직원, 이번엔 전문가로 다시 뽑았습니다 \| Hermes 팀 빌딩 + 데스크톱 앱 연동 | [YouTube iframe source](https://www.youtube.com/watch?v=7XW_O_lS6C4) | [공개 링크](https://lilys.ai/digest/10649105/12471797?s=1&noteVersionId=9050354) |
+| 50 | 콘텐츠·이미지·영상 제작 | 7만 GitHub star를 받은 Scrapling, Cloudflare 차단 어디까지 우회할 수 있을까? 적응형 웹스크래핑 | [YouTube iframe source](https://www.youtube.com/watch?v=hdEweGeZpuE) | [공개 링크](https://lilys.ai/digest/10649099/12471784?s=1&noteVersionId=9050341) |
