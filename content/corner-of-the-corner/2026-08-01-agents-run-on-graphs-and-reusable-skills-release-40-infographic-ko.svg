@@ -19,8 +19,8 @@
       .body { font-size: 18px; font-weight: 600; }
       .small { font-size: 15px; font-weight: 500; }
       .tiny { font-size: 13px; font-weight: 600; letter-spacing: 0.02em; }
-      .hero1 { font-size: 70px; font-weight: 900; letter-spacing: -0.04em; }
-      .hero2 { font-size: 26px; font-weight: 700; letter-spacing: -0.02em; }
+      .hero1 { font-size: 60px; font-weight: 900; letter-spacing: -0.04em; }
+      .hero2 { font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
       .badge { font-size: 16px; font-weight: 800; }
     </style>
   </defs>
@@ -143,19 +143,19 @@
   <text x="1310" y="610" text-anchor="middle" class="kr body" fill="#203A70">기억은 누적되고, 답변은 점점 사용자 맥락을 닮아간다</text>
 
   <text x="800" y="96" text-anchor="middle" class="kr hero2" fill="#173A6A">AI 에이전트 2.0</text>
-  <text x="800" y="190" text-anchor="middle" class="kr hero1" fill="#0D2A5C">에이전트는</text>
-  <text x="800" y="272" text-anchor="middle" class="kr hero1" fill="#0D2A5C">단일 챗봇을 넘어</text>
-  <text x="800" y="355" text-anchor="middle" class="kr hero1" fill="#0D2A5C">그래프와 자산 위에서 굴러간다</text>
-  <rect x="675" y="392" width="250" height="6" rx="3" fill="#FF7A1A"/>
-  <text x="800" y="446" text-anchor="middle" class="kr hero2" fill="#173A6A">오케스트레이션 · 연결 · 스킬 · 기억</text>
-  <text x="800" y="484" text-anchor="middle" class="kr hero2" fill="#FF7A1A">이 네 축이 최근 흐름의 중심축이다</text>
-  <circle cx="800" cy="595" r="96" fill="#FFFFFF" stroke="#E0EAFA" stroke-width="2"/>
-  <circle cx="800" cy="595" r="64" fill="#EFF5FF"/>
-  <circle cx="800" cy="595" r="27" fill="#2E66D1"/>
-  <rect x="782" y="582" width="36" height="24" rx="6" fill="#FFFFFF"/>
-  <circle cx="794" cy="593" r="3.5" fill="#2E66D1"/>
-  <circle cx="806" cy="593" r="3.5" fill="#2E66D1"/>
-  <rect x="794" y="606" width="12" height="6" rx="3" fill="#FFFFFF"/>
+  <text x="800" y="176" text-anchor="middle" class="kr hero1" fill="#0D2A5C">에이전트는</text>
+  <text x="800" y="246" text-anchor="middle" class="kr hero1" fill="#0D2A5C">단일 챗봇을 넘어</text>
+  <text x="800" y="316" text-anchor="middle" class="kr hero1" fill="#0D2A5C">그래프와 자산 위에서 굴러간다</text>
+  <rect x="675" y="346" width="250" height="6" rx="3" fill="#FF7A1A"/>
+  <text x="800" y="392" text-anchor="middle" class="kr hero2" fill="#173A6A">오케스트레이션 · 연결 · 스킬 · 기억</text>
+  <text x="800" y="426" text-anchor="middle" class="kr hero2" fill="#FF7A1A">이 네 축이 최근 흐름의 중심축이다</text>
+  <circle cx="800" cy="566" r="84" fill="#FFFFFF" stroke="#E0EAFA" stroke-width="2"/>
+  <circle cx="800" cy="566" r="56" fill="#EFF5FF"/>
+  <circle cx="800" cy="566" r="24" fill="#2E66D1"/>
+  <rect x="784" y="554" width="32" height="21" rx="6" fill="#FFFFFF"/>
+  <circle cx="794" cy="564" r="3.2" fill="#2E66D1"/>
+  <circle cx="806" cy="564" r="3.2" fill="#2E66D1"/>
+  <rect x="795" y="577" width="10" height="5" rx="2.5" fill="#FFFFFF"/>
 
   <rect x="24" y="708" width="1552" height="220" rx="24" fill="url(#panel)" stroke="#C9D8EE" filter="url(#shadow)"/>
   <path d="M24 708H165L190 928H24V708Z" fill="#0D2A5C"/>
