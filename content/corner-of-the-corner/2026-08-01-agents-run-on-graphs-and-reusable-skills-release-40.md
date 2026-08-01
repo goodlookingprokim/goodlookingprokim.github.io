@@ -17,7 +17,7 @@ cssclasses:
 
 # 2026-08-01 · 에이전트는 그래프와 스킬 자산 위에서 굴러간다 · 릴리스 40건
 
-![에이전트가 단일 챗봇을 넘어 그래프 오케스트레이션, MCP·RAG·A2A 같은 연결 규격, 재사용 가능한 스킬 자산, 영구 기억 구조 위에서 실제로 굴러가는 흐름을 정리한 인포그래픽](./2026-08-01-agents-run-on-graphs-and-reusable-skills-release-40-infographic.png)
+![에이전트가 단일 챗봇을 넘어 그래프 오케스트레이션, MCP·RAG·A2A 같은 연결 규격, 재사용 가능한 스킬 자산, 영구 기억 구조 위에서 실제로 굴러가는 흐름을 한국어로 정리한 인포그래픽](./2026-08-01-agents-run-on-graphs-and-reusable-skills-release-40-infographic-ko.svg)
 
 이번에 받은 <strong>「최근 40개 노트 큐레이션: AI 에이전트·개발·지식 시스템」</strong>은 겉으로 보면 꽤 넓다. Orca, Hermes, Agentlas, Book-to-Skill, Design.md, Obsidian Mind, API·RAG·MCP·A2A, 교육과정 MCP, OneGov, NotebookLM 스타일 라이브러리, LongCat-Video까지 한 묶음 안에 같이 들어 있다.
 
