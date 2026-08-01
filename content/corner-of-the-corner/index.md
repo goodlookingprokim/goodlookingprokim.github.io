@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-01-agents-run-on-graphs-and-reusable-skills-release-40" class="internal">
+    <strong>2026-08-01 · 에이전트는 그래프와 스킬 자산 위에서 굴러간다 · 릴리스 40건</strong>
+    <span>최근 40개 노트를 다시 묶어, 이번 변화의 핵심이 더 센 모델 소개보다 에이전트를 그래프 오케스트레이션, 연결 규격, 재사용 가능한 스킬 자산, 영구 기억 구조 위에서 실제로 굴리는 운영 방식이 정교해지고 있다는 데 있음을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-26-agents-descend-into-the-operating-layer-release-50" class="internal">
     <strong>2026-07-26 · 에이전트는 작업 위가 아니라 운영 계층으로 내려온다 · 릴리스 50건</strong>
     <span>LilysAI 최근 50개 노트를 다시 묶어, 이번 변화의 핵심이 새 모델 감탄보다 에이전트를 실제 작업 환경에 배치하는 하네스, 연결 계층, 로컬 도구, 검증 구조가 더 본체가 되고 있다는 데 있음을 읽은 글입니다.</span>
