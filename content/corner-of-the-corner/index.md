@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-08-ai-rearranges-skills-and-working-structures-release-40" class="internal">
+    <strong>2026-08-08 · AI는 기술보다 구조와 판단을 다시 묻기 시작한다 · 릴리스 40건</strong>
+    <span>최근 40개 노트를 다시 묶어, 이번 변화의 핵심이 새 도구를 하나 더 배우는가보다 AI가 일하는 구조를 어떻게 설계하고 그 안에서 사람의 판단을 어디에 둘 것인가를 다시 묻는 데 있음을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-01-agents-run-on-graphs-and-reusable-skills-release-40" class="internal">
     <strong>2026-08-01 · 에이전트는 그래프와 스킬 자산 위에서 굴러간다 · 릴리스 40건</strong>
     <span>최근 40개 노트를 다시 묶어, 이번 변화의 핵심이 더 센 모델 소개보다 에이전트를 그래프 오케스트레이션, 연결 규격, 재사용 가능한 스킬 자산, 영구 기억 구조 위에서 실제로 굴리는 운영 방식이 정교해지고 있다는 데 있음을 읽은 글입니다.</span>
