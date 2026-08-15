@@ -573,6 +573,72 @@ img {
   font-size: 0.94rem;
 }
 
+.release-infographic {
+  margin: 0 0 1.8rem;
+}
+
+.release-infographic__figure {
+  margin: 0;
+}
+
+.release-infographic__figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.release-infographic__figure figcaption {
+  margin-top: 0.72rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+.release-infographic__summary {
+  margin-top: 1rem;
+  padding: 1rem 1.05rem 1.08rem;
+  background:
+    linear-gradient(180deg, color-mix(in srgb, var(--surface-subtle) 94%, transparent), var(--surface)),
+    radial-gradient(circle at top right, color-mix(in srgb, var(--accent) 10%, transparent), transparent 44%);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.release-infographic__eyebrow {
+  margin: 0 0 0.45rem;
+  color: var(--accent);
+  font-family: var(--codeFont);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.release-infographic__lead {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.72;
+}
+
+.release-infographic__points {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.7rem 1rem;
+  margin: 0.95rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.release-infographic__points li {
+  margin: 0;
+  padding: 0.82rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  font-size: 0.94rem;
+  line-height: 1.62;
+}
+
 body[data-slug$="2026-08-15-agents-become-operating-systems-and-outputs-run-immediately-release-40"]
   .page
   article
@@ -670,6 +736,10 @@ body[data-slug$="2026-08-15-agents-become-operating-systems-and-outputs-run-imme
 
   .release-hero__copy h2 {
     font-size: 1.18rem;
+  }
+
+  .release-infographic__points {
+    grid-template-columns: 1fr;
   }
 }
 
