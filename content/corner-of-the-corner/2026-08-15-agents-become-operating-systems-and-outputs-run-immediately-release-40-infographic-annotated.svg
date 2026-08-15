@@ -1,20 +1,20 @@
 <svg width="1672" height="941" viewBox="0 0 1672 941" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">에이전트는 운영체계가 되고 산출물은 바로 실행된다는 이번 글의 논지를 반영한 인포그래픽</title>
-  <desc id="desc">왼쪽은 에이전트 운영 구조, 가운데는 현장 문서 자동화, 오른쪽은 실행 가능한 결과물, 하단은 인간 판단층을 보여주는 인포그래픽</desc>
+  <title id="title">에이전트는 운영체계가 되고 산출물은 바로 실행된다는 이번 글의 흐름을 한눈에 보여주는 인포그래픽</title>
+  <desc id="desc">운영 구조에서 현장 파일 자동화, 실행 가능한 결과물, 인간 판단층까지 이어지는 네 단계 흐름을 보여주는 인포그래픽</desc>
   <defs>
-    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#061629" stop-opacity="0.88"/>
-      <stop offset="1" stop-color="#0B1D35" stop-opacity="0.72"/>
+    <linearGradient id="titleGlow" x1="118" y1="86" x2="940" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2F8FF"/>
+      <stop offset="0.6" stop-color="#A8D7FF"/>
+      <stop offset="1" stop-color="#72F0E4"/>
     </linearGradient>
-    <linearGradient id="titleGlow" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#EEF6FF"/>
-      <stop offset="0.52" stop-color="#85C9FF"/>
-      <stop offset="1" stop-color="#67F3E7"/>
+    <linearGradient id="panelFill" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0A1930" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#0B223F" stop-opacity="0.88"/>
     </linearGradient>
-    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#6BEAFF"/>
-      <stop offset="0.5" stop-color="#7DB4FF"/>
-      <stop offset="1" stop-color="#79FFD1"/>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#61EAFF"/>
+      <stop offset="0.48" stop-color="#8DBAFF"/>
+      <stop offset="1" stop-color="#76FFD4"/>
     </linearGradient>
     <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
       <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#020812" flood-opacity="0.42"/>
@@ -22,45 +22,85 @@
     <style>
       .kr { font-family: "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif; }
       .mono { font-family: "JetBrains Mono", "SFMono-Regular", "Menlo", monospace; }
-      .eyebrow { font-size: 22px; font-weight: 700; letter-spacing: 0.14em; }
-      .title { font-size: 64px; font-weight: 900; letter-spacing: -0.05em; }
-      .subtitle { font-size: 24px; font-weight: 700; letter-spacing: -0.02em; }
-      .panelTitle { font-size: 28px; font-weight: 800; letter-spacing: -0.02em; }
-      .panelBody { font-size: 20px; font-weight: 600; letter-spacing: -0.015em; }
-      .small { font-size: 18px; font-weight: 700; letter-spacing: 0.05em; }
+      .eyebrow { font-size: 20px; font-weight: 700; letter-spacing: 0.16em; }
+      .title { font-size: 58px; font-weight: 900; letter-spacing: -0.055em; }
+      .subtitle { font-size: 21px; font-weight: 700; letter-spacing: -0.02em; }
+      .stepNo { font-size: 20px; font-weight: 800; letter-spacing: 0.16em; }
+      .stepTitle { font-size: 34px; font-weight: 850; letter-spacing: -0.03em; }
+      .stepBody { font-size: 20px; font-weight: 650; letter-spacing: -0.015em; }
+      .bottom { font-size: 21px; font-weight: 780; letter-spacing: -0.02em; }
       .white { fill: #F5FAFF; }
-      .ink { fill: #DBF2FF; }
+      .ink { fill: #DCEEFF; }
       .muted { fill: #A8C3DB; }
-      .accent { fill: #74E5FF; }
-      .mint { fill: #71FFD8; }
+      .accent { fill: #77E5FF; }
+      .mint { fill: #74FFD8; }
     </style>
   </defs>
 
   <image href="./2026-08-15-agents-become-operating-systems-and-outputs-run-immediately-release-40-infographic.png" x="0" y="0" width="1672" height="941" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="1672" height="941" fill="#031120" fill-opacity="0.54"/>
 
-  <rect x="74" y="36" width="1524" height="164" rx="28" fill="url(#panel)" stroke="#81D0FF" stroke-opacity="0.28" filter="url(#shadow)"/>
-  <text x="116" y="88" class="mono eyebrow accent">RELEASE 40 SNAPSHOT</text>
-  <text x="116" y="148" class="kr title" fill="url(#titleGlow)">에이전트는 운영체계가 되고</text>
-  <text x="116" y="212" class="kr title" fill="url(#titleGlow)">산출물은 바로 실행된다</text>
-  <text x="116" y="252" class="kr subtitle ink">스킬과 브리지가 운영 구조를 만들고, 현장 문서와 웹 결과물이 바로 실행면으로 이어지며, 마지막 경쟁력은 사람의 판단층에 남는다.</text>
-  <rect x="116" y="276" width="1440" height="6" rx="3" fill="url(#accentLine)" opacity="0.92"/>
+  <rect x="74" y="34" width="1524" height="182" rx="30" fill="url(#panelFill)" stroke="#88D6FF" stroke-opacity="0.30" filter="url(#shadow)"/>
+  <text x="118" y="88" class="mono eyebrow accent">RELEASE 40 AT A GLANCE</text>
+  <text x="118" y="148" class="kr title" fill="url(#titleGlow)">에이전트는 운영체계가 되고</text>
+  <text x="118" y="208" class="kr title" fill="url(#titleGlow)">산출물은 바로 실행된다</text>
+  <text x="118" y="248" class="kr subtitle ink">핵심은 모델 이름보다 운영 구조, 현장 파일, 실행 결과물,</text>
+  <text x="118" y="278" class="kr subtitle ink">인간 판단층이 한 줄로 이어진다는 점이다.</text>
+  <rect x="118" y="292" width="1436" height="6" rx="3" fill="url(#lineGlow)" opacity="0.95"/>
 
-  <rect x="84" y="230" width="388" height="116" rx="22" fill="url(#panel)" stroke="#7FCEFF" stroke-opacity="0.24" filter="url(#shadow)"/>
-  <text x="110" y="276" class="mono small accent">LAYER 01</text>
-  <text x="110" y="312" class="kr panelTitle white">운영 구조가 본체가 된다</text>
-  <text x="110" y="338" class="kr panelBody muted">스킬 · 브리지 · 메모리 · 서브 에이전트</text>
+  <rect x="74" y="276" width="326" height="438" rx="28" fill="url(#panelFill)" stroke="#83D5FF" stroke-opacity="0.28" filter="url(#shadow)"/>
+  <text x="106" y="326" class="mono stepNo accent">STEP 01</text>
+  <text x="106" y="384" class="kr stepTitle white">운영 구조</text>
+  <text x="106" y="428" class="kr stepBody ink">스킬 · 브리지 · 메모리</text>
+  <text x="106" y="460" class="kr stepBody ink">· 서브 에이전트가</text>
+  <text x="106" y="492" class="kr stepBody ink">에이전트의 본체가 된다</text>
+  <rect x="106" y="528" width="118" height="6" rx="3" fill="url(#lineGlow)"/>
+  <text x="106" y="580" class="kr stepBody muted">어떤 모델을 쓰느냐보다</text>
+  <text x="106" y="612" class="kr stepBody muted">어떤 구조 안에서 굴리느냐가</text>
+  <text x="106" y="644" class="kr stepBody muted">실전 경쟁력을 가른다</text>
 
-  <rect x="642" y="230" width="388" height="116" rx="22" fill="url(#panel)" stroke="#7FCEFF" stroke-opacity="0.24" filter="url(#shadow)"/>
-  <text x="668" y="276" class="mono small accent">LAYER 02</text>
-  <text x="668" y="312" class="kr panelTitle white">현장 파일이 자동화 중심으로</text>
-  <text x="668" y="338" class="kr panelBody muted">구글시트 · HWP · PDF · 학생부</text>
+  <rect x="448" y="276" width="326" height="438" rx="28" fill="url(#panelFill)" stroke="#83D5FF" stroke-opacity="0.28" filter="url(#shadow)"/>
+  <text x="480" y="326" class="mono stepNo accent">STEP 02</text>
+  <text x="480" y="384" class="kr stepTitle white">현장 파일</text>
+  <text x="480" y="428" class="kr stepBody ink">구글시트 · HWP · PDF</text>
+  <text x="480" y="460" class="kr stepBody ink">· 학생부 같은 문서가</text>
+  <text x="480" y="492" class="kr stepBody ink">자동화 중심으로 들어온다</text>
+  <rect x="480" y="528" width="118" height="6" rx="3" fill="url(#lineGlow)"/>
+  <text x="480" y="580" class="kr stepBody muted">멋진 데모보다</text>
+  <text x="480" y="612" class="kr stepBody muted">실제로 열리고 검토 가능한</text>
+  <text x="480" y="644" class="kr stepBody muted">파일이 더 중요해진다</text>
 
-  <rect x="1188" y="230" width="400" height="116" rx="22" fill="url(#panel)" stroke="#7FCEFF" stroke-opacity="0.24" filter="url(#shadow)"/>
-  <text x="1214" y="276" class="mono small accent">LAYER 03</text>
-  <text x="1214" y="312" class="kr panelTitle white">읽는 문서가 실행면으로 이동</text>
-  <text x="1214" y="338" class="kr panelBody muted">사이트 · 대시보드 · 3D · 모바일 QA</text>
+  <rect x="822" y="276" width="326" height="438" rx="28" fill="url(#panelFill)" stroke="#83D5FF" stroke-opacity="0.28" filter="url(#shadow)"/>
+  <text x="854" y="326" class="mono stepNo accent">STEP 03</text>
+  <text x="854" y="384" class="kr stepTitle white">실행 결과물</text>
+  <text x="854" y="428" class="kr stepBody ink">사이트 · 대시보드 · 3D</text>
+  <text x="854" y="460" class="kr stepBody ink">· 모바일 QA처럼</text>
+  <text x="854" y="492" class="kr stepBody ink">바로 열어 보여줄 수 있다</text>
+  <rect x="854" y="528" width="118" height="6" rx="3" fill="url(#lineGlow)"/>
+  <text x="854" y="580" class="kr stepBody muted">산출물의 기본값이</text>
+  <text x="854" y="612" class="kr stepBody muted">문서 파일에서 실행 가능한</text>
+  <text x="854" y="644" class="kr stepBody muted">표면으로 이동한다</text>
 
-  <rect x="484" y="818" width="704" height="88" rx="24" fill="url(#panel)" stroke="#7FCEFF" stroke-opacity="0.22" filter="url(#shadow)"/>
-  <text x="836" y="854" text-anchor="middle" class="mono small mint">HUMAN JUDGMENT LAYER</text>
-  <text x="836" y="890" text-anchor="middle" class="kr panelTitle white">마지막 경쟁력은 질문 · 구조화 · 검토 · 문체 다듬기</text>
+  <rect x="1196" y="276" width="326" height="438" rx="28" fill="url(#panelFill)" stroke="#83D5FF" stroke-opacity="0.28" filter="url(#shadow)"/>
+  <text x="1228" y="326" class="mono stepNo mint">STEP 04</text>
+  <text x="1228" y="384" class="kr stepTitle white">인간 판단층</text>
+  <text x="1228" y="428" class="kr stepBody ink">질문 · 구조화 · 검토</text>
+  <text x="1228" y="460" class="kr stepBody ink">· 문체 다듬기가</text>
+  <text x="1228" y="492" class="kr stepBody ink">마지막 경쟁력으로 남는다</text>
+  <rect x="1228" y="528" width="118" height="6" rx="3" fill="url(#lineGlow)"/>
+  <text x="1228" y="580" class="kr stepBody muted">AI가 넓게 퍼질수록</text>
+  <text x="1228" y="612" class="kr stepBody muted">사람은 승인 기준과</text>
+  <text x="1228" y="644" class="kr stepBody muted">최종 판단을 더 맡게 된다</text>
+
+  <path d="M400 496H442" stroke="url(#lineGlow)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M774 496H816" stroke="url(#lineGlow)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M1148 496H1190" stroke="url(#lineGlow)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M432 482L450 496L432 510" stroke="url(#lineGlow)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M806 482L824 496L806 510" stroke="url(#lineGlow)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1180 482L1198 496L1180 510" stroke="url(#lineGlow)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="74" y="760" width="1524" height="128" rx="28" fill="url(#panelFill)" stroke="#83D5FF" stroke-opacity="0.25" filter="url(#shadow)"/>
+  <text x="112" y="807" class="mono eyebrow accent">ONE-LINE READ</text>
+  <text x="112" y="846" class="kr bottom white">더 센 모델 경쟁 → 운영 구조 설계 → 현장 파일 자동화</text>
+  <text x="112" y="878" class="kr bottom white">→ 실행 가능한 결과물 → 사람의 최종 판단</text>
 </svg>
