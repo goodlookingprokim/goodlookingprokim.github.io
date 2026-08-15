@@ -17,7 +17,22 @@ cssclasses:
 
 # 2026-08-15 · 에이전트는 운영체계가 되고 산출물은 바로 실행된다 · 릴리스 40건
 
-![A premium editorial tech infographic showing AI agents evolving into operating systems, document automation moving into real work, and web outputs becoming immediately executable surfaces](./2026-08-15-agents-become-operating-systems-and-outputs-run-immediately-release-40-infographic.png)
+<section class="release-hero">
+  <div class="release-hero__image">
+    <img alt="에이전트 운영체계화, 문서 자동화, 실행형 웹 산출물의 흐름을 시각화한 인포그래픽" src="./2026-08-15-agents-become-operating-systems-and-outputs-run-immediately-release-40-infographic.png" />
+  </div>
+  <div class="release-hero__copy">
+    <p class="release-hero__eyebrow">Release 40 Snapshot</p>
+    <h2>이번 40선은 새 기능 나열보다<br />일의 구조를 다시 짜는 흐름에 가깝다</h2>
+    <p>왼쪽의 에이전트 레이어가 스킬, 메모리, 라우팅, 보안 같은 운영 구조를 보여준다면, 가운데 문서 파이프라인은 교실과 사무 현장의 실제 파일 흐름을 뜻한다. 오른쪽 대시보드와 웹 화면은 결과가 더 이상 읽는 문서에서 끝나지 않고, 곧바로 실행하고 공유할 수 있는 표면으로 이동하고 있음을 보여준다.</p>
+    <ul class="release-hero__points">
+      <li><strong>운영체계화</strong> 모델보다 스킬, 브리지, 서브 에이전트 구성이 더 중요해진다.</li>
+      <li><strong>현장 파일화</strong> 구글시트, HWP, PDF, 학생부 같은 실무 문서가 자동화 중심으로 들어온다.</li>
+      <li><strong>실행면화</strong> 웹사이트, 대시보드, 3D 인터랙션처럼 바로 열어 보여줄 결과물이 늘어난다.</li>
+      <li><strong>인간 판단층</strong> 마지막 경쟁력은 질문, 구조화, 검토, 문체 다듬기에 남는다.</li>
+    </ul>
+  </div>
+</section>
 
 이번에 받은 <strong>「최근 AI·기술 동향 학습 큐레이션 40」</strong>은 겉으로 보면 꽤 넓다. book-to-skill, claude-scaffold, Grok Bot, CodexBar, Prime Agent, 구글시트 대시보드, 학생부 스킬, GSG HWP, NotebookLM 2.0, ChatGPT Sites, scroll-world, Tapflow, Fish Audio, Logo Creator, Graph Engineering까지 한 묶음 안에 다 들어 있다.
 
