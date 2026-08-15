@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-15-agents-become-operating-systems-and-outputs-run-immediately-release-40" class="internal">
+    <strong>2026-08-15 · 에이전트는 운영체계가 되고 산출물은 바로 실행된다 · 릴리스 40건</strong>
+    <span>최근 40개 노트를 다시 묶어, 이번 변화의 핵심이 새 도구를 더 많이 외우는 데보다 에이전트를 운영체계처럼 굴리고 문서와 웹 결과물을 바로 실행 가능한 표면으로 옮기는 흐름에 있음을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-08-ai-rearranges-skills-and-working-structures-release-40" class="internal">
     <strong>2026-08-08 · AI는 기술보다 구조와 판단을 다시 묻기 시작한다 · 릴리스 40건</strong>
     <span>최근 40개 노트를 다시 묶어, 이번 변화의 핵심이 새 도구를 하나 더 배우는가보다 AI가 일하는 구조를 어떻게 설계하고 그 안에서 사람의 판단을 어디에 둘 것인가를 다시 묻는 데 있음을 읽은 글입니다.</span>
