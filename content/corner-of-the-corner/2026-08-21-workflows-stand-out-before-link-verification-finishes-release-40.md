@@ -19,17 +19,17 @@ cssclasses:
 
 <section class="release-infographic">
   <figure class="release-infographic__figure">
-    <img alt="왼쪽은 에이전트 운영 구조, 가운데는 공개 링크 검증과 문서 흐름, 오른쪽은 대시보드와 실행 화면, 하단은 사람의 최종 검토층을 보여주는 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic.png" />
-    <figcaption>이번 40선은 새 도구 이름보다, 공개 가능한 링크 상태를 가르고 에이전트 작업 흐름을 연결한 뒤 실제 결과물 화면까지 이어 가는 운영 구조가 더 본체가 되고 있음을 보여준다.</figcaption>
+    <img alt="중앙의 검증 보드에서 AI 에이전트와 공개 상태가 방사형으로 연결되고, 주변에는 증거 클러스터와 검토 화면, 하단에는 최종 승인 보드가 놓인 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic.png" />
+    <figcaption>이번 40선은 잘 정리된 파이프라인 한 줄보다, 공개 가능 여부와 검토 증거와 실행 흐름을 한 보드 위에서 끝까지 관리하는 편집국형 운영 감각이 더 중요해지고 있음을 보여준다.</figcaption>
   </figure>
   <div class="release-infographic__summary">
-    <p class="release-infographic__eyebrow">Release 40 Workflow</p>
-    <p class="release-infographic__lead">이번 인포그래픽은 왼쪽의 에이전트 운영층, 가운데의 공개 링크 검증과 문서 흐름, 오른쪽의 실행 가능한 결과물 표면, 아래의 인간 검토층이 한 체계로 이어진다는 점을 한눈에 읽히도록 다시 묶었다.</p>
+    <p class="release-infographic__eyebrow">Release 40 Editorial Board</p>
+    <p class="release-infographic__lead">이번 인포그래픽은 중앙 검증 보드를 기준으로 공개 가능 링크, 에이전트 작업, 문서 자동화, 미디어 제작, 교육 도구, 인간 승인 절차가 방사형으로 얽혀 있다는 점을 편집국 벽면 보드처럼 보이도록 다시 설계했다.</p>
     <ul class="release-infographic__points">
-      <li><strong>운영 구조</strong> 모델 비교보다 스킬, MCP, 라우팅, 멀티에이전트 운영이 실제 본체처럼 커진다.</li>
-      <li><strong>검증과 공개 상태</strong> 링크를 모으는 일보다 무엇이 지금 바로 공유 가능하고 무엇이 미검증인지 분리하는 습관이 중요해진다.</li>
-      <li><strong>실행 가능한 표면</strong> 문서, 대시보드, 교육 도구, 미디어 제작 흐름이 읽는 정보가 아니라 바로 열어 쓰는 작업면으로 바뀐다.</li>
-      <li><strong>인간 판단층</strong> 마지막 신뢰는 자동 생성이 아니라 검토, 확인, 승인 같은 사람의 마감 판단에서 결정된다.</li>
+      <li><strong>중앙 검증 허브</strong> 이번 흐름의 중심은 모델 이름이 아니라 어떤 항목이 검증됐고 어떤 항목이 아직 보류인지 가르는 관리판이다.</li>
+      <li><strong>증거 클러스터</strong> 원본 링크, 공개 상태, 미완료 항목, 참고 메모가 주변 패널에 묶여 있어 큐레이션이 기록 자산처럼 보인다.</li>
+      <li><strong>방사형 작업면</strong> AI 에이전트, 바이브코딩, 문서 자동화, 미디어 제작, 교육 도구가 하나의 직선 파이프라인이 아니라 서로 영향을 주는 다중 작업면으로 읽힌다.</li>
+      <li><strong>최종 승인층</strong> 마지막 신뢰는 자동 생성이 아니라 승인 도장, 체크리스트, 최종 사인오프 같은 사람의 마감 행위에서 완성된다.</li>
     </ul>
   </div>
 </section>
