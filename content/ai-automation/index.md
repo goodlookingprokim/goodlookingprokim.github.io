@@ -63,6 +63,7 @@ cssclasses:
 
 ## 최근 글
 
+- [Hermes3D와 AI 에이전트 3D 가상 오피스, 처음 보는 분도 이해되게 다시 풀어보기](./hermes3d-ai-agent-3d-virtual-office-explained-for-beginners-2026-08-21)
 - [officecli 설치부터 실전 활용까지: 일반 직장과 교육기관에서 문서 자동화를 시작하는 가장 현실적인 방법](./officecli-install-and-practical-workflows-for-offices-and-schools-2026-08-06)
 - [BananaX를 그냥 프롬프트 모음으로 보면 아깝다: 초보자도 바로 써먹는 인포그래픽 활용 허브](./bananax-practical-infographic-workflow-guide-2026-06-19)
 - [Mac 로컬 AI로 바로 써먹는 실전 프롬프트 10선: Apple Silicon 입문자가 가장 먼저 돌려볼 만한 질문들](./practical-local-ai-prompts-on-mac-2026-05-25)
