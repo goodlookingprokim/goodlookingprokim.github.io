@@ -9,13 +9,30 @@ tags:
   - document-automation
   - corner-of-the-corner
 created: "2026-08-21"
-modified: "2026-08-21"
+modified: "2026-08-22"
 publish: true
 cssclasses:
   - quick-note
 ---
 
 # 2026-08-21 · 공개 전환이 덜 끝나도 작업 흐름은 또렷해진다 · 릴리스 40건
+
+<section class="release-infographic">
+  <figure class="release-infographic__figure">
+    <img alt="왼쪽은 에이전트 운영 구조, 가운데는 공개 링크 검증과 문서 흐름, 오른쪽은 대시보드와 실행 화면, 하단은 사람의 최종 검토층을 보여주는 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic.png" />
+    <figcaption>이번 40선은 새 도구 이름보다, 공개 가능한 링크 상태를 가르고 에이전트 작업 흐름을 연결한 뒤 실제 결과물 화면까지 이어 가는 운영 구조가 더 본체가 되고 있음을 보여준다.</figcaption>
+  </figure>
+  <div class="release-infographic__summary">
+    <p class="release-infographic__eyebrow">Release 40 Workflow</p>
+    <p class="release-infographic__lead">이번 인포그래픽은 왼쪽의 에이전트 운영층, 가운데의 공개 링크 검증과 문서 흐름, 오른쪽의 실행 가능한 결과물 표면, 아래의 인간 검토층이 한 체계로 이어진다는 점을 한눈에 읽히도록 다시 묶었다.</p>
+    <ul class="release-infographic__points">
+      <li><strong>운영 구조</strong> 모델 비교보다 스킬, MCP, 라우팅, 멀티에이전트 운영이 실제 본체처럼 커진다.</li>
+      <li><strong>검증과 공개 상태</strong> 링크를 모으는 일보다 무엇이 지금 바로 공유 가능하고 무엇이 미검증인지 분리하는 습관이 중요해진다.</li>
+      <li><strong>실행 가능한 표면</strong> 문서, 대시보드, 교육 도구, 미디어 제작 흐름이 읽는 정보가 아니라 바로 열어 쓰는 작업면으로 바뀐다.</li>
+      <li><strong>인간 판단층</strong> 마지막 신뢰는 자동 생성이 아니라 검토, 확인, 승인 같은 사람의 마감 판단에서 결정된다.</li>
+    </ul>
+  </div>
+</section>
 
 이번에 받은 <strong>「최근 AI·기술 동향 학습 큐레이션 40」</strong>은 완성본이라기보다, LilysAI에서 최근 40개를 끌어와 다시 읽고 공개 가능한 링크 상태까지 점검하던 중간 산출물에 가깝다. 그래서 이 묶음은 단순한 “요즘 뭐가 떴나” 목록보다도, <strong>무엇이 이미 바깥으로 공유 가능한 상태인지, 무엇은 아직 내부 검토 단계인지</strong>를 먼저 읽게 만든다.
 
