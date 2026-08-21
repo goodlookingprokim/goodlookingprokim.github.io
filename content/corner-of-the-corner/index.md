@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40" class="internal">
+    <strong>2026-08-21 · 공개 전환이 덜 끝나도 작업 흐름은 또렷해진다 · 릴리스 40건</strong>
+    <span>최근 40개 학습 노트를 다시 묶어, 이번 흐름의 핵심이 새 AI 도구 이름 자체보다 공개 가능한 링크와 반복 가능한 작업 절차를 얼마나 분리해 관리하느냐에 있음을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-15-agents-become-operating-systems-and-outputs-run-immediately-release-40" class="internal">
     <strong>2026-08-15 · 에이전트는 운영체계가 되고 산출물은 바로 실행된다 · 릴리스 40건</strong>
     <span>최근 40개 노트를 다시 묶어, 이번 변화의 핵심이 새 도구를 더 많이 외우는 데보다 에이전트를 운영체계처럼 굴리고 문서와 웹 결과물을 바로 실행 가능한 표면으로 옮기는 흐름에 있음을 읽은 글입니다.</span>
