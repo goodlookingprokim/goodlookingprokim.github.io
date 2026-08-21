@@ -19,7 +19,7 @@ cssclasses:
 
 <section class="release-infographic">
   <figure class="release-infographic__figure">
-    <img alt="중앙의 검증 보드에서 AI 에이전트와 공개 상태가 방사형으로 연결되고, 주변에는 증거 클러스터와 검토 화면, 하단에는 최종 승인 보드가 놓인 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic.png" />
+    <img alt="중앙의 검증 보드에서 AI 에이전트와 공개 상태가 방사형으로 연결되고, 주변에는 증거 클러스터와 검토 화면, 하단에는 최종 승인 보드가 놓인 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic-editorial-board.png" />
     <figcaption>이번 40선은 잘 정리된 파이프라인 한 줄보다, 공개 가능 여부와 검토 증거와 실행 흐름을 한 보드 위에서 끝까지 관리하는 편집국형 운영 감각이 더 중요해지고 있음을 보여준다.</figcaption>
   </figure>
   <div class="release-infographic__summary">
