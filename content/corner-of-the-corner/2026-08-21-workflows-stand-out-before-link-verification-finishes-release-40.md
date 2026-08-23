@@ -19,17 +19,17 @@ cssclasses:
 
 <section class="release-infographic">
   <figure class="release-infographic__figure">
-    <img alt="중앙의 검증 보드에서 AI 에이전트와 공개 상태가 방사형으로 연결되고, 주변에는 증거 클러스터와 검토 화면, 하단에는 최종 승인 보드가 놓인 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic-editorial-board.png" />
-    <figcaption>이번 40선은 잘 정리된 파이프라인 한 줄보다, 공개 가능 여부와 검토 증거와 실행 흐름을 한 보드 위에서 끝까지 관리하는 편집국형 운영 감각이 더 중요해지고 있음을 보여준다.</figcaption>
+    <img alt="나무 책상 위의 큰 종이 노선도에서 에이전트 운영, 문서 워크플로, 미디어 제작, 교육용 지식면이 서로 교차하며 연결되는 탑뷰 인포그래픽" src="./2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40-infographic-transit-desk.png" />
+    <figcaption>이번 40선은 대시보드 한 장보다, 여러 작업 흐름을 한 장의 노선도처럼 다시 꺼내 쓰고 검토하고 공유하는 편집 데스크 감각이 중요해지고 있음을 보여준다.</figcaption>
   </figure>
   <div class="release-infographic__summary">
-    <p class="release-infographic__eyebrow">Release 40 Editorial Board</p>
-    <p class="release-infographic__lead">이번 인포그래픽은 중앙 검증 보드를 기준으로 공개 가능 링크, 에이전트 작업, 문서 자동화, 미디어 제작, 교육 도구, 인간 승인 절차가 방사형으로 얽혀 있다는 점을 편집국 벽면 보드처럼 보이도록 다시 설계했다.</p>
+    <p class="release-infographic__eyebrow">Release 40 Route Desk</p>
+    <p class="release-infographic__lead">이번 인포그래픽은 종이 위의 노선도처럼 에이전트 운영, 문서 자동화, 미디어 제작, 교육·지식화 흐름이 서로 교차하고 다시 합류하는 장면으로 다시 설계했다. 지난 글의 스택형 구조가 아니라, 사람이 직접 표시하고 검토하며 공유 경로를 잡는 편집 데스크형 구도다.</p>
     <ul class="release-infographic__points">
-      <li><strong>중앙 검증 허브</strong> 이번 흐름의 중심은 모델 이름이 아니라 어떤 항목이 검증됐고 어떤 항목이 아직 보류인지 가르는 관리판이다.</li>
-      <li><strong>증거 클러스터</strong> 원본 링크, 공개 상태, 미완료 항목, 참고 메모가 주변 패널에 묶여 있어 큐레이션이 기록 자산처럼 보인다.</li>
-      <li><strong>방사형 작업면</strong> AI 에이전트, 바이브코딩, 문서 자동화, 미디어 제작, 교육 도구가 하나의 직선 파이프라인이 아니라 서로 영향을 주는 다중 작업면으로 읽힌다.</li>
-      <li><strong>최종 승인층</strong> 마지막 신뢰는 자동 생성이 아니라 승인 도장, 체크리스트, 최종 사인오프 같은 사람의 마감 행위에서 완성된다.</li>
+      <li><strong>노선도형 구조</strong> 이번 흐름의 핵심은 하나의 중앙 허브가 아니라, 여러 작업축이 교차하며 다시 이어지는 재사용 경로다.</li>
+      <li><strong>아날로그 편집 감각</strong> 카드, 클립, 자, 핀, 메모 조각이 함께 보여서 큐레이션이 실제 손을 타는 작업 자산처럼 읽힌다.</li>
+      <li><strong>교차 지점 강조</strong> 에이전트 운영, 문서 워크플로, 미디어 제작, 교육·지식면이 따로 노는 게 아니라 중간 경유지를 공유한다는 점이 드러난다.</li>
+      <li><strong>공유 경로 시점</strong> 중요한 것은 모델 이름보다 어떤 경로를 먼저 검토하고, 무엇을 다음에 공유할지 정하는 순서다.</li>
     </ul>
   </div>
 </section>
@@ -128,7 +128,7 @@ Gemini Spark, Notebook 소스 연결, 강의영상 검색, 세컨드브레인 �
 | 에이전트 운영 | 1. AI 에이전트 시대의 도래와 주요 에이전트 소개 [1] | 이제 AI 에이전트가 대신하는 시대! Grok Bot vs Buzz vs Hermes 비교! | [원본](https://www.youtube.com/watch?v=UMDSNYu7iNU) | - |
 | 문서·실무 자동화 | kayatext | GitHub - kjh0523/kayatext: 한글(HWP)·엑셀·워드 문서에서 AI 가 읽을 텍스트를 뽑습니다. | [원본](https://github.com/kjh0523/kayatext) | [릴리스AI 요약](https://lilys.ai/digest/11037231/12991429?s=1) |
 | 미디어 제작 | 목소리에 착 붙는 숏폼,오늘 하나 만들어 봅니다 | 나레이션 붙는 숏폼 | [원본](https://remotion-shorts-guide.vercel.app/) | - |
-| 웹·앱 제작 | 1. 개발 지식 없이 클로드로 예약 시스템 구축하기 [1] | 개발 1도 몰라도 됩니다. 예약 시스템 무료로 만드는 법 \| 클로드 웹사이트 2탄 | [원본](https://www.youtube.com/watch?v=lCJ5_vWCVpg) | [릴리스AI 요약](https://lilys.ai/digest/11026169/12977235?s=1&noteVersionId=9571202) |
+| 웹·앱 제작 | 1. 개발 지식 없이 클로드로 예약 시스템 구축하기 [1] | 개발 1도 몰라도 됩니다. 예약 시스템 무료로 만드는 법 \| 클로드 웹사이트 2탄 | [원본](https://www.youtube.com/watch?v=lCJ5_vWCVpg) | [릴리스AI 요약](https://lilys.ai/digest/11026169/12977235?s=1) |
 | 문서·실무 자동화 | 1. 클로드(Claude)와 코리안 로우 MCP(Korean Law MCP)를 활용한 법률 업무 효율화 [1] | 클로드 계약서 검토부터 내용증명 까지 \| Claude code 한국 법령 MCP 실전 활용 \| Korean Law MCP | [원본](https://www.youtube.com/watch?v=z-cxE0yus4g) | - |
 | 에이전트 운영 | 1. AI 스킬의 등장 배경 및 필요성 [1] | 요즘 AI 바이브코딩 고수들이 스킬을 쓰는 이유 | [원본](https://www.youtube.com/watch?v=dsP4AR6lFUQ) | [릴리스AI 요약](https://lilys.ai/digest/11025412/12976339?s=1) |
 | 교육·개인지식면 | 1. 세컨드 브레인, 만들고 나서 무엇을 해야 하는가 [1] | 세컨드브레인 만들기 \| 클로드 코드로 한글파일·강의영상까지 검색 (코딩 없이 4분) | [원본](https://www.youtube.com/watch?v=MoYGM-HZc2I) | - |
@@ -142,17 +142,17 @@ Gemini Spark, Notebook 소스 연결, 강의영상 검색, 세컨드브레인 �
 | 교육·개인지식면 | 1. 인공지능 시대, 출발선이 다시 제로가 되다 [1] | [시즌 3] 인공지능 시대에는 어떻게 공부를 해야 할까? 사람은 정말로 필요 없는 걸까? | [원본](https://www.youtube.com/watch?v=IiKkUFQTFvQ) | [릴리스AI 요약](https://lilys.ai/digest/11024539/12975220?s=1) |
 | 웹·앱 제작 | 1. AI를 활용한 RPG 게임 개발 소개 [1] | [시즌 3] 클로드 코드 + 코덱스로 RPG 게임 만들기 | [원본](https://www.youtube.com/watch?v=_IyVJ7ZD9H4) | - |
 | 미디어 제작 | 1. AI 화이트보드 애니메이션 영상 자동화 소개 [1] | 코덱스로 AI 화이트보드 애니메이션 영상 자동화 만들기(무료 오픈소스 대공개) | [원본](https://www.youtube.com/watch?v=aelyPpDGiZQ) | - |
-| 에이전트 운영 | 🕷️ ScrapeGraphAI: You Only Scrape Once | GitHub - ScrapeGraphAI/Scrapegraph-ai: Python scraper based on AI · GitHub | [원본](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | [릴리스AI 요약](https://lilys.ai/digest/11024017/12974585?s=1&noteVersionId=9568438) |
+| 에이전트 운영 | 🕷️ ScrapeGraphAI: You Only Scrape Once | GitHub - ScrapeGraphAI/Scrapegraph-ai: Python scraper based on AI · GitHub | [원본](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | [릴리스AI 요약](https://lilys.ai/digest/11024017/12974585?s=1) |
 | 미디어 제작 | 목소리에 착 붙는 숏폼,오늘 하나 만들어 봅니다 | 나레이션 붙는 숏폼 | [원본](https://remotion-shorts-guide.vercel.app/) | - |
 | 미디어 제작 | /watch | Claude Video | [원본](https://github.com/bradautomates/claude-video) | - |
 | 미디어 제작 | 1. ElevenLabs MCP, Claude에 통합: 음성 및 채팅 에이전트 관리의 새로운 시대 [1] | Introducing the ElevenLabs MCP, now available in Claude. | [원본](https://www.youtube.com/watch?v=wHTkD5eagGU) | - |
 | 교육·개인지식면 | 1. Google Workspace Studio를 활용한 Gemini Notebook 소스 자동 추가 기능 [1] | Automatically Add Google Drive Sources to Gemini Notebook | [원본](https://www.youtube.com/watch?v=wz2QRwV0lVQ) | - |
-| 에이전트 운영 | Connect AI Agents to Meta with MCP | Connect AI Agents to Meta with MCP \| Developer Documentation | [원본](https://developers.facebook.com/documentation/mcp) | [릴리스AI 요약](https://lilys.ai/digest/10992155/12936318?s=1&noteVersionId=9529113) |
+| 에이전트 운영 | Connect AI Agents to Meta with MCP | Connect AI Agents to Meta with MCP \| Developer Documentation | [원본](https://developers.facebook.com/documentation/mcp) | [릴리스AI 요약](https://lilys.ai/digest/10992155/12936318?s=1) |
 | 마케팅 자동화 | 1. AI 시대, 마케터의 역할 변화와 생산성 혁신 [1] | "AI는 실행하고, 마케터는 결정합니다" 15년차 퍼포먼스 마케터가 공개한 12단계 자동화 (김형태 대표, 데일리그로스) | [원본](https://www.youtube.com/watch?v=FZzxy_0FT0o) | - |
 | 교육·개인지식면 | 1. AI 활용의 변화와 실제 시간 및 비용 절약 사례 [1] | 2026 최신 AI 사용법｜ChatGPT·Gemini, 제가 실제로 잘 쓰는 기능 10가지 | [원본](https://www.youtube.com/watch?v=7TbZ6KweVFs) | - |
 | 에이전트 운영 | 1. Grokbot 소개: AI 에이전트의 새로운 지평 [1] | Cursor에서 방금 출시한 Grok Bot (매우 쉬운 AI 에이전트) | [원본](https://www.youtube.com/watch?v=QTcZPI-g7is) | - |
 | 웹·앱 제작 | 1. 개요 | Claude Opus 5로 수준 높은 Three.js 웹사이트를 구축하는 방법 | [원본](https://www.youtube.com/watch?v=G-F5Qvy-7KM) | [릴리스AI 요약](https://lilys.ai/digest/10984632/12933699?s=1) |
-| 문서·실무 자동화 | 서초바탕 (Seocho Batang) | 서초바탕체: 법원 판결문에 사용하는 글자체를 오마주하여 만듦 | [원본](https://github.com/iwantanid/SeochoBatang-Font) | [릴리스AI 요약](https://lilys.ai/digest/10983394/12924972?s=1&noteVersionId=9517515) |
+| 문서·실무 자동화 | 서초바탕 (Seocho Batang) | 서초바탕체: 법원 판결문에 사용하는 글자체를 오마주하여 만듦 | [원본](https://github.com/iwantanid/SeochoBatang-Font) | [릴리스AI 요약](https://lilys.ai/digest/10983394/12924972?s=1) |
 | 문서·실무 자동화 | Alhangeul | 알한글: macOS에서 HWP 시용하는 오픈소스 앱 | [원본](https://github.com/postmelee/alhangeul-macos) | - |
 | 교육·개인지식면 | 1. AI 기반 학습 도구 및 게임 개발 현황 공유 [1] | 8월15일 줌세미나 영상(코너속의코너, Seedance2.5, Three.js+WebGL2, Fish audio, 회원님들의 게임제작현황) | [원본](https://www.youtube.com/watch?v=0s-orFa2oRw) | [릴리스AI 요약](https://lilys.ai/digest/10972641/12911061?s=1) |
 | 에이전트 운영 | book-to-skill | book-to-skill | [원본](https://github.com/virgiliojr94/book-to-skill) | [릴리스AI 요약](https://lilys.ai/digest/10960473/12895147?s=1) |
