@@ -19,12 +19,12 @@ cssclasses:
 
 <section class="release-infographic">
   <figure class="release-infographic__figure">
-    <img alt="종이 위의 학습 노선도에서 AI 기초 개념, 에이전트 협업, Git과 웹앱 기반, 수업 자동화가 서로 이어지는 탑뷰 인포그래픽" src="./2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40-infographic-learning-routes.png" />
-    <figcaption>이번 40선은 새 도구를 많이 아는 경쟁보다, 개념을 이해하고 협업 구조를 세우고 현장 자동화까지 이어 붙이는 학습 경로를 한 장의 노선도처럼 관리하는 감각이 중요해졌음을 보여준다.</figcaption>
+    <img alt="교실형 스튜디오 벽 보드 위에 AI 기초 문해력, 에이전트 협업, 개발 기반, 수업 자동화가 네 개의 연결된 모듈로 배치된 정면형 인포그래픽" src="./2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40-infographic-learning-routes.png" />
+    <figcaption>이번 40선은 책상 위 메모 묶음보다, 서로 다른 학습 축을 벽면의 모듈처럼 세우고 연결하면서 개념에서 실천으로 넘어가는 경로를 설계하는 감각이 더 중요해졌음을 보여준다.</figcaption>
   </figure>
   <div class="release-infographic__summary">
     <p class="release-infographic__eyebrow">Release 40 Learning Routes</p>
-    <p class="release-infographic__lead">이번 인포그래픽은 교사 책상 위의 학습 노선도처럼 <code>AI 개념 이해</code>, <code>에이전트 협업</code>, <code>개발 기반</code>, <code>수업·업무 자동화</code>가 순서대로만 흐르지 않고 중간중간 환승하며 다시 연결되는 장면으로 설계했다. 같은 <code>종이 노선도형 편집 데스크</code> 계열이지만, 이번 글의 내용에 맞춰 교실과 작업면이 함께 보이는 학습 경로형 구도로 다시 잡았다.</p>
+    <p class="release-infographic__lead">이번 인포그래픽은 책상 탑뷰 대신 교실형 스튜디오 벽 설치 보드 구도로 바꿨다. <code>AI 개념 이해</code>, <code>에이전트 협업</code>, <code>개발 기반</code>, <code>수업·업무 자동화</code>를 각각 독립 모듈처럼 세우고, 선과 커넥터와 점검 지점을 통해 개념에서 실천으로 넘어가는 흐름이 정면에서 읽히도록 설계했다.</p>
     <ul class="release-infographic__points">
       <li><strong>개념 출발역</strong> 이번 흐름의 첫 칸은 모델 이름이 아니라 LLM, 컨텍스트, 인간 판단 같은 기초 문해력이다.</li>
       <li><strong>협업 환승 지점</strong> 에이전트와 하네스는 마법 기능이 아니라 역할 분담, 검수, 기록 설계의 문제로 이어진다.</li>
