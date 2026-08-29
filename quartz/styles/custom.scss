@@ -434,20 +434,20 @@ th a {
 
 .page article .table-container > table th:nth-child(4),
 .page article .table-container > table td:nth-child(4) {
-  width: 22rem;
-  min-width: 22rem;
+  width: 8.2rem;
+  min-width: 8.2rem;
 }
 
 .page article .table-container > table th:nth-child(5),
 .page article .table-container > table td:nth-child(5) {
-  width: 7.5rem;
-  min-width: 7.5rem;
+  width: 9rem;
+  min-width: 9rem;
 }
 
 .page article .table-container > table th:nth-child(6),
 .page article .table-container > table td:nth-child(6) {
-  width: 7.5rem;
-  min-width: 7.5rem;
+  width: 6.6rem;
+  min-width: 6.6rem;
 }
 
 @media (max-width: 900px) {
@@ -808,8 +808,65 @@ body[data-slug$="2026-08-21-workflows-stand-out-before-link-verification-finishe
   .table-container
   > table
   td:nth-child(5) {
-  width: 13.1rem;
-  min-width: 13.1rem;
+  width: 9.1rem;
+  min-width: 9.1rem;
+}
+
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table {
+  min-width: 56.8rem;
+}
+
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(4),
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(4) {
+  width: 7.6rem;
+  min-width: 7.6rem;
+}
+
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(5),
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(5) {
+  width: 7.6rem;
+  min-width: 7.6rem;
+  padding-left: 0.24rem;
+  padding-right: 0.34rem;
+}
+
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(4),
+body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-automation-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(4) {
+  padding-right: 0.24rem;
 }
 
 @media (max-width: 900px) {
