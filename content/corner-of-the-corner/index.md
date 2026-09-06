@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-09-06-ai-tools-converge-on-one-work-surface-release-40" class="internal">
+    <strong>2026-09-06 · AI 도구는 하나의 작업면으로 모인다 · 릴리스 40건</strong>
+    <span>최근 40개 학습 노트를 다시 묶어, 에이전트 운영·문서·미디어·오픈소스 도구가 각각의 기능을 넘어 하나의 연결된 작업면으로 수렴하는 흐름을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-08-21-workflows-stand-out-before-link-verification-finishes-release-40" class="internal">
     <strong>2026-08-21 · 공개 전환이 덜 끝나도 작업 흐름은 또렷해진다 · 릴리스 40건</strong>
     <span>최근 40개 학습 노트를 다시 묶어, 이번 흐름의 핵심이 새 AI 도구 이름 자체보다 공개 가능한 링크와 반복 가능한 작업 절차를 얼마나 분리해 관리하느냐에 있음을 읽은 글입니다.</span>

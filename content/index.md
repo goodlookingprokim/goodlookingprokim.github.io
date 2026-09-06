@@ -31,10 +31,10 @@ title: GoodlookingProKim
     <span class="hub-meta">대표 글 · OpenClaw 에이전트 연결 메뉴얼</span>
   </a>
   <a class="hub-card" href="https://goodlookingprokim.github.io/corner-of-the-corner">
-    <span class="hub-status">운영 중 · 9 posts</span>
+    <span class="hub-status">운영 중 · 10 posts</span>
     <strong>코너 속의 코너</strong>
     <span>릴리스 자료와 공유 노트를 다시 읽어, 그날의 흐름을 짧은 한마디와 자료 건수로 남기는 큐레이션 아카이브입니다.</span>
-    <span class="hub-meta">대표 글 · 2026-07-04 · AI는 더 잘 일할 환경을 원한다 · 릴리스 40건</span>
+    <span class="hub-meta">대표 글 · 2026-09-06 · AI 도구는 하나의 작업면으로 모인다 · 릴리스 40건</span>
   </a>
   <a class="hub-card" href="https://goodlookingprokim.github.io/work-notes">
     <span class="hub-status">운영 중 · 2 posts</span>
@@ -53,6 +53,7 @@ title: GoodlookingProKim
 ## 먼저 읽어보면 좋은 글
 
 <ul class="note-list">
+  <li><a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-09-06-ai-tools-converge-on-one-work-surface-release-40" class="internal">2026-09-06 · AI 도구는 하나의 작업면으로 모인다 · 릴리스 40건</a></li>
   <li><a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-07-04-ai-needs-a-better-work-environment-release-40" class="internal">2026-07-04 · AI는 더 잘 일할 환경을 원한다 · 릴리스 40건</a></li>
   <li><a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-06-13-operation-loops-over-tool-collecting-release-40" class="internal">2026-06-13 · 도구 수집보다 운영 루프가 먼저다 · 릴리스 40건</a></li>
   <li><a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-05-16-work-systems-over-models-release-60" class="internal">2026-05-16 · 작업 시스템이 먼저다 · 릴리스 60건</a></li>

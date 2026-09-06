@@ -869,6 +869,99 @@ body[data-slug$="2026-08-29-learning-routes-run-from-ai-literacy-to-classroom-au
   padding-right: 0.24rem;
 }
 
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table {
+  min-width: 58rem;
+  table-layout: fixed;
+}
+
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(1),
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(1) {
+  width: 9rem;
+  min-width: 9rem;
+}
+
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(2),
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(2) {
+  width: 8rem;
+  min-width: 8rem;
+}
+
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(3),
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(3) {
+  width: 21rem;
+  min-width: 21rem;
+}
+
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(4),
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(4) {
+  width: 7.5rem;
+  min-width: 7.5rem;
+  padding-right: 0.22rem;
+  overflow-wrap: anywhere;
+}
+
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  th:nth-child(5),
+body[data-slug$="2026-09-06-ai-tools-converge-on-one-work-surface-release-40"]
+  .page
+  article
+  .table-container
+  > table
+  td:nth-child(5) {
+  width: 7.5rem;
+  min-width: 7.5rem;
+  padding-left: 0.22rem;
+  overflow-wrap: anywhere;
+}
+
 @media (max-width: 900px) {
   .release-hero {
     grid-template-columns: 1fr;
