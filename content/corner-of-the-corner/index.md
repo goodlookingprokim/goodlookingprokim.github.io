@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-10-03-ai-grows-into-boundary-design-release-39" class="internal">
+    <strong>2026-10-03 · AI는 기능보다 경계 설계가 중요해진다 · 릴리스 39건</strong>
+    <span>최근 39개 자료를 다시 묶어, 판단형 AI와 에이전트 운영, 문서·코드 작업면, 교육의 인간 행위자성과 오프라인 지식 접근이 AI 자동화의 경계를 함께 설계하는 흐름을 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-09-06-ai-tools-converge-on-one-work-surface-release-40" class="internal">
     <strong>2026-09-06 · AI 도구는 하나의 작업면으로 모인다 · 릴리스 40건</strong>
     <span>최근 40개 학습 노트를 다시 묶어, 에이전트 운영·문서·미디어·오픈소스 도구가 각각의 기능을 넘어 하나의 연결된 작업면으로 수렴하는 흐름을 읽은 글입니다.</span>
