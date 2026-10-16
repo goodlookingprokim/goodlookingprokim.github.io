@@ -18,6 +18,17 @@ cssclasses:
 
 # 2026-10-16 · AI는 도구보다 조합과 경계를 설계한다 · 릴리스 40건
 
+<section class="release-infographic">
+  <figure class="release-infographic__figure">
+    <img alt="AI가 작업하는 표면과 사람이 판단의 선을 긋는 경계를 좌우로 비교한 인포그래픽. 왼쪽에는 에이전트 인수, 모델 조합, 로컬·연결 개발환경이 있고 오른쪽에는 REA의 검증, ARTEX의 허가, MiroFish의 책임 경계가 배치되어 있다." src="./2026-10-16-ai-designs-combinations-and-boundaries-release-40-infographic.png" />
+    <figcaption>이번 40선은 AI를 도구 목록이 아니라, 작업면과 판단 경계가 함께 설계되는 시스템으로 읽었다.</figcaption>
+  </figure>
+  <div class="release-infographic__summary">
+    <p class="release-infographic__eyebrow">Work Surfaces · Judgment Boundaries · Release 40</p>
+    <p class="release-infographic__lead">왼쪽은 AI가 실제로 손대는 작업면이고, 오른쪽은 사람이 정확성·허가·책임을 다시 확인하는 경계다. 이번 글의 핵심은 두 영역을 분리하는 데 있지 않고, 도구를 시스템으로 묶을수록 판단의 선을 더 또렷하게 그어야 한다는 데 있다.</p>
+  </div>
+</section>
+
 ## 먼저 결론
 
 - 이번 40건의 공통점은 AI가 답변창을 넘어 **팀·개발환경·메일·문서·시뮬레이션·보안 검증**으로 넓어지고 있다는 점입니다.
