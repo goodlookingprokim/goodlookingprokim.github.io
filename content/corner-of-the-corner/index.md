@@ -38,6 +38,10 @@ cssclasses:
 ## 최근 글
 
 <div class="reading-path">
+  <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-10-16-ai-designs-combinations-and-boundaries-release-40" class="internal">
+    <strong>2026-10-16 · AI는 도구보다 조합과 경계를 설계한다 · 릴리스 40건</strong>
+    <span>최근 40개 노트를 다시 묶어, AI가 답변을 넘어 팀·개발환경·문서·시뮬레이션·보안 검증으로 넓어질 때 필요한 모델 조합과 사람의 경계를 읽은 글입니다.</span>
+  </a>
   <a href="https://goodlookingprokim.github.io/corner-of-the-corner/2026-10-10-ai-connects-work-to-operational-outputs-release-40" class="internal">
     <strong>2026-10-10 · AI는 작업을 결과물과 운영으로 잇는다 · 릴리스 40건</strong>
     <span>최근 40개 자료를 다시 묶어, 작업환경을 직접 꾸미는 에이전트에서 작은 판단의 자동화, 편집 가능한 결과물, 지속 운영과 인간의 감독으로 이어지는 흐름을 읽은 글입니다.</span>
