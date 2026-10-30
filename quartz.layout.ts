@@ -1,5 +1,29 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { FileTrieNode } from "./quartz/util/fileTrie"
+
+const sortExplorerEntries = (a: FileTrieNode, b: FileTrieNode) => {
+  const aIsCornerPost = !a.isFolder && a.slug.startsWith("corner-of-the-corner/")
+  const bIsCornerPost = !b.isFolder && b.slug.startsWith("corner-of-the-corner/")
+
+  if (aIsCornerPost && bIsCornerPost) {
+    // The curation slugs begin with an ISO date, so descending slug order
+    // keeps the newest "코너 속의 코너" entry at the top of the Explorer.
+    return b.slug.localeCompare(a.slug, undefined, {
+      numeric: false,
+      sensitivity: "base",
+    })
+  }
+
+  if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+    return a.displayName.localeCompare(b.displayName, undefined, {
+      numeric: true,
+      sensitivity: "base",
+    })
+  }
+
+  return !a.isFolder && b.isFolder ? 1 : -1
+}
 
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
@@ -55,7 +79,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: sortExplorerEntries }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -81,7 +105,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({ sortFn: sortExplorerEntries }),
   ],
   right: [Component.DesktopOnly(Component.TableOfContents())],
 }
