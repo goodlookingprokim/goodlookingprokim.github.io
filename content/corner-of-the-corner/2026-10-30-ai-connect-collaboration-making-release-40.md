@@ -17,6 +17,23 @@ cssclasses:
 
 # 2026-10-30 · AI는 연결·협업·제작으로 확장된다 · 릴리스 40건
 
+<section class="release-infographic">
+  <figure class="release-infographic__figure">
+    <img alt="브라우저와 MCP, 프록시 게이트웨이, 여러 에이전트가 하나의 작업 표면에서 연결·협업·제작·검증으로 이어지고 마지막에 사람의 검토를 거치는 운영 지도 인포그래픽" src="./2026-10-30-ai-connect-collaboration-making-release-40-infographic.png" />
+    <figcaption>이번 40선은 모델 하나의 성능보다 연결된 작업 표면, 에이전트 협업, 결과물 제작, 사람의 검증이 함께 설계되어야 한다는 흐름을 보여준다.</figcaption>
+  </figure>
+  <div class="release-infographic__summary">
+    <p class="release-infographic__eyebrow">Connect · Collaborate · Make · Verify · Human Review</p>
+    <p class="release-infographic__lead">AI의 다음 단계는 대화창을 더 크게 만드는 일이 아니다. 브라우저·MCP·프록시·세션을 연결하고, 여러 에이전트가 작업을 나누고, 3D·영상·교재를 결과물로 만든 뒤, 사람의 검토와 근거 확인을 통과시키는 운영 표면을 만드는 일에 가깝다.</p>
+    <ul class="release-infographic__points">
+      <li><strong>CONNECT</strong> 브라우저·MCP·프록시·세션이 AI의 작업 범위를 넓힌다.</li>
+      <li><strong>COLLABORATE</strong> 조사·기획·실행·QA 역할을 나눌수록 상태와 인계가 중요해진다.</li>
+      <li><strong>MAKE</strong> 3D·영상·문서·교재는 생성보다 편집·검수·배포 흐름으로 읽어야 한다.</li>
+      <li><strong>VERIFY</strong> 정확성·안전·근거·비용을 사람이 마지막에 확인해야 한다.</li>
+    </ul>
+  </div>
+</section>
+
 AI 도구를 수업·콘텐츠 제작·업무 개선에 써 보려는 교사와 개발자를 위한 자료다. Readray(구 LilysAI)의 최근순 40개를 주제별로 다시 묶었다. 도구의 가격·성능 수치는 원본 제작자의 설명이므로 적용 전에 현재 조건을 확인하자.
 
 ## 먼저 결론
