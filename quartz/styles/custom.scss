@@ -1627,3 +1627,38 @@ a.hub-card:hover {
     width: 92%;
   }
 }
+
+/* 2026-11-07 release table: keep the two link columns visually adjacent. */
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table {
+  min-width: 56rem;
+  table-layout: fixed;
+}
+
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table th:nth-child(1),
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table td:nth-child(1) {
+  width: 10.5rem;
+  min-width: 10.5rem;
+}
+
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table th:nth-child(2),
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table td:nth-child(2) {
+  width: 11.5rem;
+  min-width: 11.5rem;
+}
+
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table th:nth-child(3),
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table td:nth-child(3),
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table th:nth-child(4),
+body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table td:nth-child(4) {
+  width: 7.7rem;
+  min-width: 7.7rem;
+  padding-left: 0.24rem;
+  padding-right: 0.34rem;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 900px) {
+  body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article .table-container > table {
+    min-width: 48rem;
+  }
+}
