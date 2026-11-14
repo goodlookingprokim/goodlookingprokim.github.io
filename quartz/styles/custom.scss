@@ -1662,3 +1662,156 @@ body[data-slug$="2026-11-07-ai-learning-constellation-release-40"] .page article
     min-width: 48rem;
   }
 }
+
+
+/* 2026-11-14 release map: a route-and-rail composition distinct from the previous constellation hero. */
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(14rem, 0.85fr);
+  gap: 1rem;
+  margin: 0 0 2rem;
+  padding: 0.85rem;
+  background: linear-gradient(135deg, var(--surface-subtle), var(--surface));
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow-subtle);
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__figure {
+  min-width: 0;
+  margin: 0;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__figure img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 8px;
+  background: #111827;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__figure figcaption {
+  margin: 0.55rem 0.15rem 0.1rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+  padding: 1rem 1.05rem;
+  background: color-mix(in srgb, var(--surface-muted) 72%, transparent);
+  border: 1px solid var(--border-soft);
+  border-radius: 8px;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__eyebrow {
+  margin: 0 0 0.7rem;
+  color: var(--accent);
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  line-height: 1.4;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail h2 {
+  margin: 0 0 1rem;
+  font-size: clamp(1.35rem, 1.1rem + 1vw, 2rem);
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail ol {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail li {
+  display: grid;
+  grid-template-columns: 4.1rem minmax(0, 1fr);
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0.55rem 0;
+  border-top: 1px solid var(--border-soft);
+  font-size: 0.86rem;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail li strong {
+  color: var(--accent);
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail li span {
+  color: var(--darkgray);
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__footer {
+  grid-column: 1 / -1;
+  padding: 0.8rem 0.95rem 0.2rem;
+  border-top: 1px solid var(--border-soft);
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__footer p {
+  margin: 0;
+  color: var(--darkgray);
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table {
+  min-width: 64rem;
+  table-layout: fixed;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table th:nth-child(1),
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table td:nth-child(1) {
+  width: 9rem;
+  min-width: 9rem;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table th:nth-child(2),
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table td:nth-child(2) {
+  width: 8rem;
+  min-width: 8rem;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table th:nth-child(3),
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table td:nth-child(3) {
+  width: 23rem;
+  min-width: 23rem;
+}
+
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table th:nth-child(4),
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table td:nth-child(4),
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table th:nth-child(5),
+body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table td:nth-child(5) {
+  width: 7.5rem;
+  min-width: 7.5rem;
+  padding-left: 0.22rem;
+  padding-right: 0.28rem;
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 900px) {
+  body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero {
+    grid-template-columns: 1fr;
+  }
+
+  body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__rail {
+    padding: 0.9rem;
+  }
+
+  body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .release-map-hero__footer {
+    grid-column: auto;
+  }
+
+  body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .table-container > table {
+    min-width: 56rem;
+  }
+}
