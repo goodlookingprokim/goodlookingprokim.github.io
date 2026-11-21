@@ -1815,3 +1815,156 @@ body[data-slug$="2026-11-14-ai-work-surface-map-release-40"] .page article .tabl
     min-width: 56rem;
   }
 }
+
+/* 2026-11-21 release: a modular control-room composition with explicit safety gates. */
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero {
+  display: grid;
+  gap: 1rem;
+  margin: 0 0 2rem;
+  padding: 0.9rem;
+  background:
+    radial-gradient(circle at 18% 12%, color-mix(in srgb, var(--accent) 12%, transparent), transparent 32%),
+    linear-gradient(145deg, var(--surface-subtle), var(--surface));
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow-subtle);
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__figure {
+  min-width: 0;
+  margin: 0;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__figure img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 9px;
+  background: #061a37;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__figure figcaption {
+  margin: 0.6rem 0.2rem 0.1rem;
+  color: var(--muted);
+  font-size: 0.82rem;
+  line-height: 1.55;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__brief {
+  display: grid;
+  grid-template-columns: minmax(9rem, 0.35fr) minmax(0, 1fr);
+  gap: 0.9rem 1.2rem;
+  align-items: start;
+  padding: 0.95rem 1rem;
+  background: color-mix(in srgb, var(--surface-muted) 72%, transparent);
+  border: 1px solid var(--border-soft);
+  border-radius: 9px;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__eyebrow {
+  grid-row: span 2;
+  margin: 0;
+  color: var(--accent);
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  line-height: 1.5;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__brief h2 {
+  margin: 0;
+  font-size: clamp(1.35rem, 1.05rem + 1.1vw, 2rem);
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__brief > p:last-child {
+  margin: 0;
+  color: var(--darkgray);
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__axes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.7rem;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__axes > div {
+  display: grid;
+  gap: 0.25rem;
+  min-width: 0;
+  padding: 0.7rem 0.8rem;
+  border-top: 2px solid var(--accent);
+  background: color-mix(in srgb, var(--surface) 78%, transparent);
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__axes strong {
+  color: var(--accent);
+  font-size: 0.8rem;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__axes span {
+  color: var(--darkgray);
+  font-size: 0.84rem;
+  line-height: 1.45;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) {
+  min-width: 62rem;
+  table-layout: fixed;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) th:nth-child(1),
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) td:nth-child(1) {
+  width: 9rem;
+  min-width: 9rem;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) th:nth-child(2),
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) td:nth-child(2) {
+  width: 10rem;
+  min-width: 10rem;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) th:nth-child(3),
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) td:nth-child(3) {
+  width: 25rem;
+  min-width: 25rem;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) th:nth-child(4),
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) td:nth-child(4),
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) th:nth-child(5),
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) td:nth-child(5) {
+  width: 7.5rem;
+  min-width: 7.5rem;
+  padding-left: 0.22rem;
+  padding-right: 0.28rem;
+  overflow-wrap: anywhere;
+}
+
+body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:not(:has(th:nth-child(3))) {
+  min-width: 28rem;
+  table-layout: fixed;
+}
+
+@media (max-width: 900px) {
+  body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__brief {
+    grid-template-columns: 1fr;
+  }
+
+  body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__eyebrow {
+    grid-row: auto;
+  }
+
+  body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .release-control-room-hero__axes {
+    grid-template-columns: 1fr;
+  }
+
+  body[data-slug$="2026-11-21-ai-work-boundaries-release-40"] .page article .table-container > table:has(th:nth-child(5)) {
+    min-width: 62rem;
+  }
+}
